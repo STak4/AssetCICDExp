@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: JewelAssets
+  m_Name: JewelAssets_Icon
   m_EditorClassIdentifier: 
   m_GroupName: Packed Assets
   m_Data:
     m_SerializedData: []
-  m_GUID: c39906e179a7b60458608beccac0faa5
+  m_GUID: 4e3b5de43018efa45b7c940e5947eb39
   m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 79a24eeff0e9da3488937305c90091ae, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 50e6f22239b615c40a1fb2abc2a9bcff, type: 2}
-    - {fileID: 11400000, guid: e1ce40bccf5d5e049a07ec4b45c93c51, type: 2}
+    - {fileID: 11400000, guid: 11c8d55e0fdb8a6499079eed3052f52b, type: 2}
+    - {fileID: 11400000, guid: b8b5d59f72f29704e92c095de422a469, type: 2}
