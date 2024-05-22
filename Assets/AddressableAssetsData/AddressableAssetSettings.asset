@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: cc1126a327bced04088b1a8d3fc259df
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 9f50e6d3f00b9694421befeea69a418a
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -35,10 +35,10 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: c819ea1d322f30c4ab96d3920f60d7b9
   m_RemoteCatalogLoadPath:
-    m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+    m_Id: 470badcba4473834bb8e7f1a8ba7e323
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
@@ -48,6 +48,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e5342e42893c325499ff6d6e7c740994, type: 2}
   - {fileID: 11400000, guid: e25c55d111502ae4c87f3c1381075851, type: 2}
   - {fileID: 11400000, guid: d2501d129520a994bad79a4ff6ae2846, type: 2}
+  - {fileID: 11400000, guid: d4699dc28e181d04aa9e1741eae307c1, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -89,6 +90,8 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Jewel
+    - DLC
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 12749a21cc30ca24292cac4c49509c8c, type: 2}
