@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: cc1126a327bced04088b1a8d3fc259df
   m_currentHash:
     serializedVersion: 2
-    Hash: 9f50e6d3f00b9694421befeea69a418a
+    Hash: 65fc967717fb42205eb2ec24076212b1
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -35,9 +35,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: c819ea1d322f30c4ab96d3920f60d7b9
+    m_Id: fe934cd1a60498e4fa47f79b3cee2184
   m_RemoteCatalogLoadPath:
-    m_Id: 470badcba4473834bb8e7f1a8ba7e323
+    m_Id: baee542d6167a214aa7f1c0bccc76d47
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -69,7 +69,7 @@ MonoBehaviour:
       - m_Id: fe934cd1a60498e4fa47f79b3cee2184
         m_Value: ServerData/[BuildTarget]
       - m_Id: baee542d6167a214aa7f1c0bccc76d47
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://dle3l6c4o80th.cloudfront.net/
     m_ProfileEntryNames:
     - m_Id: 3d64be9b8b40e3f49b7189f78cb95953
       m_Name: BuildTarget
