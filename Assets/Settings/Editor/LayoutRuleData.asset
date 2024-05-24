@@ -208,7 +208,7 @@ MonoBehaviour:
     - rid: 4601861295841738758
       type: {class: ConstantLabelProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.LabelRules, asm: SmartAddresser.Editor}
       data:
-        _label: Jewel
+        _label: jewel
     - rid: 4601861295841738759
       type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
       data:
@@ -261,7 +261,7 @@ MonoBehaviour:
     - rid: 4601861295841738766
       type: {class: ConstantLabelProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.LabelRules, asm: SmartAddresser.Editor}
       data:
-        _label: DLC
+        _label: dlc
     - rid: 4601861295841738767
       type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
       data:
