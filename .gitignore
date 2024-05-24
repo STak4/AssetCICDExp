@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Resources
 /[Aa]ssets/[Aa]ssetBundleResources/*
+
+# NuGet Packege
+/[Aa]ssets/[Pp]ackages/*
