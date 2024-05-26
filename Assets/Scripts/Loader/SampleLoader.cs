@@ -56,6 +56,7 @@ namespace STak4.AssetCICD.Loader
                 GetDownloadProgress(handle, size);
                 await handle.Task;
                 Debug.Log($"Locations[{groupedLocations.Key}]: Download Complete.");
+                // autoReleaseHandle = trueにしても良い
                 Addressables.Release(handle);
             }
             Load();
