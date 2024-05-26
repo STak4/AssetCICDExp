@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Cysharp.Threading.Tasks;
 using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
@@ -21,19 +22,13 @@ namespace STak4.AssetCICD.Loader
         // Start is called before the first frame update
         void Start()
         {
-            Download();
+            Download().Forget();
         }
 
-        public async void Download()
+        public async UniTaskVoid Download()
         {
             // ラベルと型からResourceLocationを取得
             var all = await Addressables.LoadResourceLocationsAsync(_label, typeof(Texture2D)).Task;
-            
-            // ダウンロード用のハンドル
-            var downloadHandles = new List<AsyncOperationHandle>();
-            
-            // 各バンドルのサイズ(Bytes）
-            var bundleSizes = new List<long>();
             
             // 経過時間計測用
             var start = DateTime.Now;
@@ -48,37 +43,44 @@ namespace STak4.AssetCICD.Loader
                 // GetDownloadSizeAsyncでダウンロード容量を取得する。
                 // キャッシュ済みの場合常に0になる（LoadPathがリモートでない場合0になる）
                 // https://baba-s.hatenablog.com/entry/2020/03/19/033000
-                var size = await Addressables.GetDownloadSizeAsync(locations).Task;
+                var size = await Addressables.GetDownloadSizeAsync(locations).ToUniTask(cancellationToken: default);
                 Debug.Log($"Locations[{groupedLocations.Key}]: Download start. size:{ConvertFileSize(size)}, files:{locations.Count}");
                 
                 // グルーピングされたLocationをもとにアセットバンドルファイル単位でダウンロードする
                 var handle = Addressables.DownloadDependenciesAsync(locations);
-                GetDownloadProgress(handle, size);
-                await handle.Task;
+                try
+                {
+                    // $MEMO: AddressableのProgress（％表示はそのままだと扱いにくいのでサイズで計算したほうが良い
+                    await handle.ToUniTask(Progress.Create<float>(_ => GetDownloadProgress(handle, size)) , cancellationToken: destroyCancellationToken);
+                }
+                catch (OperationCanceledException e)
+                {
+                    Debug.Log($"Locations[{groupedLocations.Key}]: Download Canceled. {e.Message}");
+                    Addressables.Release(handle);
+                    return;
+                }
+
                 Debug.Log($"Locations[{groupedLocations.Key}]: Download Complete.");
                 // autoReleaseHandle = trueにしても良い
                 Addressables.Release(handle);
             }
-            Load();
+            await Load();
             
             // 経過時間用
             var elapsed = DateTime.Now - start;
             Debug.Log($"[Debug] Elapsed time:{elapsed.TotalSeconds:F2}");
         }
 
-        private async void GetDownloadProgress(AsyncOperationHandle handle, long total)
+        // 進捗表示
+        private void GetDownloadProgress(AsyncOperationHandle handle, long total)
         {
-            while (!handle.IsDone)
-            {
-                var current = handle.GetDownloadStatus().DownloadedBytes;
-                Debug.Log($"[Progress] {ConvertFileSize(current)}/{ConvertFileSize(total)}");
-                await Task.Delay(100);
-            }
+            var current = handle.GetDownloadStatus().DownloadedBytes;
+            Debug.Log($"[Progress] {ConvertFileSize(current)}/{ConvertFileSize(total)}");
         }
 
-        public async void Load()
+        public async UniTask Load()
         {
-            var tex2D = await Addressables.LoadAssetAsync<Texture2D>(_key).Task;
+            var tex2D = await Addressables.LoadAssetAsync<Texture2D>(_key).ToUniTask(cancellationToken: destroyCancellationToken);
             _target.texture = tex2D;
         }
 
