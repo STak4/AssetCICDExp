@@ -40,6 +40,7 @@ namespace STak4.AssetCICD.Loader
             
             // DependencyHashCodeでグルーピングをし、アセットバンドル単位でダウンロードする
             // https://blog.gigacreation.jp/entry/2021/12/28/195920
+            // 直列ダウンロード
             foreach (IGrouping<int, IResourceLocation> groupedLocations in all.GroupBy(x => x.DependencyHashCode))
             {
                 var locations = groupedLocations.ToList();
@@ -47,50 +48,31 @@ namespace STak4.AssetCICD.Loader
                 // GetDownloadSizeAsyncでダウンロード容量を取得する。
                 // キャッシュ済みの場合常に0になる（LoadPathがリモートでない場合0になる）
                 // https://baba-s.hatenablog.com/entry/2020/03/19/033000
-                var size = Addressables.GetDownloadSizeAsync(locations);
-                size.Completed += op =>
-                {
-                    bundleSizes.Add(op.Result);
-                    Debug.Log($"Locations[{groupedLocations.Key}]: Download start. size:{ConvertFileSize(op.Result)}");
-                    Addressables.Release(size);
-                };
+                var size = await Addressables.GetDownloadSizeAsync(locations).Task;
+                Debug.Log($"Locations[{groupedLocations.Key}]: Download start. size:{ConvertFileSize(size)}, files:{locations.Count}");
                 
                 // グルーピングされたLocationをもとにアセットバンドルファイル単位でダウンロードする
-                Debug.Log($"Locations[{groupedLocations.Key}]: Download start. total files:{locations.Count}");
-                var download = Addressables.DownloadDependenciesAsync(locations);
-                download.Completed += (op =>
-                {
-                    Debug.Log(
-                        $"Locations[{groupedLocations.Key}]: Download Complete. total files:{locations.Count}");
-                    // 本来はダウンロードを完了したらReleaseするが、この後進捗表示用に使用するためここではReleaseしない
-                    // Releaseしないとロード時にSystem.Exception: Unable to load dependent bundle from location Download Dependenciesになる
-                    //Addressables.Release(download);
-                });
-                downloadHandles.Add(download);
+                var handle = Addressables.DownloadDependenciesAsync(locations);
+                GetDownloadProgress(handle, size);
+                await handle.Task;
+                Debug.Log($"Locations[{groupedLocations.Key}]: Download Complete.");
+                Addressables.Release(handle);
             }
-            
-            // 個別のダウンロード状況（サイズ）を表示する
-            var groupHandle = Addressables.ResourceManager.CreateGenericGroupOperation(downloadHandles);
-            while (!groupHandle.IsDone)
-            {
-                for (int i = 0; i < bundleSizes.Count; i++)
-                {
-                    Debug.Log($"[Bundle{i}]: {ConvertFileSize(downloadHandles[i].GetDownloadStatus().DownloadedBytes)}/{ConvertFileSize(bundleSizes[i])}");
-                }
-                
-                // 全体の進捗率（パーセンテージ）
-                // 微妙に扱いにくいのでサイズの表示を推奨
-                //Debug.Log($"Overall progress:{groupHandle.PercentComplete}");
-                await Task.Delay(100);
-            }
-            
-            // ダウンロードしたファイルを使用する前に全てReleaseする
-            Addressables.Release(groupHandle);
             Load();
             
             // 経過時間用
             var elapsed = DateTime.Now - start;
             Debug.Log($"[Debug] Elapsed time:{elapsed.TotalSeconds:F2}");
+        }
+
+        private async void GetDownloadProgress(AsyncOperationHandle handle, long total)
+        {
+            while (!handle.IsDone)
+            {
+                var current = handle.GetDownloadStatus().DownloadedBytes;
+                Debug.Log($"[Progress] {ConvertFileSize(current)}/{ConvertFileSize(total)}");
+                await Task.Delay(100);
+            }
         }
 
         public async void Load()
