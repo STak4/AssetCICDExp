@@ -30,12 +30,6 @@ namespace STak4.AssetCICD.Loader
             // ラベルと型からResourceLocationを取得
             var all = await Addressables.LoadResourceLocationsAsync(_label, typeof(Texture2D)).Task;
             
-            // ダウンロード用のハンドル
-            var downloadHandles = new List<AsyncOperationHandle>();
-            
-            // 各バンドルのサイズ(Bytes）
-            var bundleSizes = new List<long>();
-            
             // 経過時間計測用
             var start = DateTime.Now;
             
@@ -70,7 +64,7 @@ namespace STak4.AssetCICD.Loader
                 // autoReleaseHandle = trueにしても良い
                 Addressables.Release(handle);
             }
-            Load();
+            await Load();
             
             // 経過時間用
             var elapsed = DateTime.Now - start;
@@ -84,9 +78,9 @@ namespace STak4.AssetCICD.Loader
             Debug.Log($"[Progress] {ConvertFileSize(current)}/{ConvertFileSize(total)}");
         }
 
-        public async void Load()
+        public async UniTask Load()
         {
-            var tex2D = await Addressables.LoadAssetAsync<Texture2D>(_key).Task;
+            var tex2D = await Addressables.LoadAssetAsync<Texture2D>(_key).ToUniTask(cancellationToken: destroyCancellationToken);
             _target.texture = tex2D;
         }
 
