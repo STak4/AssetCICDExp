@@ -18,2224 +18,2224 @@ MonoBehaviour:
   m_GUID: 4e3b5de43018efa45b7c940e5947eb39
   m_SerializeEntries:
   - m_GUID: 00273b0c1cddfb34fa0234a0f0f9ef83
-    m_Address: Assets/AssetBundleResources/Icon/f028.png
+    m_Address: ICON_f028
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 007c6ff71fd097849b1327dc55c17258
-    m_Address: Assets/AssetBundleResources/Icon/f056.png
+    m_Address: ICON_f056
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1085b12c36011d746b7716a388c04c91
-    m_Address: Assets/AssetBundleResources/Icon/f292.png
+    m_Address: ICON_f292
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 102b71e354f66764abbe70923109732b
-    m_Address: Assets/AssetBundleResources/Icon/f032.png
+    m_Address: ICON_f032
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 20836c92b18876f418c25e5486ab6a22
-    m_Address: Assets/AssetBundleResources/Icon/f090.png
+    m_Address: ICON_f090
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 207f049051539ae42ae584f42b04c71f
-    m_Address: Assets/AssetBundleResources/Icon/f065.png
+    m_Address: ICON_f065
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3013f64d6a2e8394cbdebb90befc0878
-    m_Address: Assets/AssetBundleResources/Icon/f249.png
+    m_Address: ICON_f249
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 302974e92a0809d48befa5f37292f8e5
-    m_Address: Assets/AssetBundleResources/Icon/f256.png
+    m_Address: ICON_f256
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 50b7a487267368747938ec38ab1935f7
-    m_Address: Assets/AssetBundleResources/Icon/f175.png
+    m_Address: ICON_f175
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 501bec41b346fe240a7c3fcd0990cc4e
-    m_Address: Assets/AssetBundleResources/Icon/f301.png
+    m_Address: ICON_f301
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 50ab5a00ba7dce64b9559e163e84b4ef
-    m_Address: Assets/AssetBundleResources/Icon/f265.png
+    m_Address: ICON_f265
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 507ddb4b7a877f94c84d05eff72d692a
-    m_Address: Assets/AssetBundleResources/Icon/f364.png
+    m_Address: ICON_f364
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 609474ba8ceeb1f438fa067aec303e74
-    m_Address: Assets/AssetBundleResources/Icon/f168.png
+    m_Address: ICON_f168
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 80460870a7a86694eaafec395e0f5bfa
-    m_Address: Assets/AssetBundleResources/Icon/f080.png
+    m_Address: ICON_f080
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 90be6c013df3da64aaba3fe6cae7ad60
-    m_Address: Assets/AssetBundleResources/Icon/f121.png
+    m_Address: ICON_f121
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a0811ed81ed61aa4292751cec2cac45f
-    m_Address: Assets/AssetBundleResources/Icon/f027.png
+    m_Address: ICON_f027
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b085c93ba81baed48a4bf673e882dc4a
-    m_Address: Assets/AssetBundleResources/Icon/f170.png
+    m_Address: ICON_f170
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b0ab87d195acff642b3660b4e91127aa
-    m_Address: Assets/AssetBundleResources/Icon/f123.png
+    m_Address: ICON_f123
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b0bef681a62c3cc4aa632673f56e0e4b
-    m_Address: Assets/AssetBundleResources/Icon/f073.png
+    m_Address: ICON_f073
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c01918b1ff8424147878ab0949efbb11
-    m_Address: Assets/AssetBundleResources/Icon/f227.png
+    m_Address: ICON_f227
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f0e406615bb9ddb4eb134e5cfc339f79
-    m_Address: Assets/AssetBundleResources/Icon/f352.png
+    m_Address: ICON_f352
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01078ab0da587bb4bb1ecec48980e70a
-    m_Address: Assets/AssetBundleResources/Icon/f266.png
+    m_Address: ICON_f266
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01def15707eaa9b4bbef350f4e184bc3
-    m_Address: Assets/AssetBundleResources/Icon/f275.png
+    m_Address: ICON_f275
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 113dcfb18ae20c3409f629525857c25c
-    m_Address: Assets/AssetBundleResources/Icon/f070.png
+    m_Address: ICON_f070
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3100beb604ff6cf4a9b2779d7dd13ce2
-    m_Address: Assets/AssetBundleResources/Icon/f165.png
+    m_Address: ICON_f165
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 31a93e3d6a035e84696610e2647a51e1
-    m_Address: Assets/AssetBundleResources/Icon/f309.png
+    m_Address: ICON_f309
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4123a4e815917cd4993adb4c17ac019a
-    m_Address: Assets/AssetBundleResources/Icon/f232.png
+    m_Address: ICON_f232
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 514088bbac7c8ec4dba386be13827c92
-    m_Address: Assets/AssetBundleResources/Icon/f320.png
+    m_Address: ICON_f320
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 51225af6e6ba4654495b548e3364dc90
-    m_Address: Assets/AssetBundleResources/Icon/f295.png
+    m_Address: ICON_f295
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5172cab833178af4992cc6f87d156dfd
-    m_Address: Assets/AssetBundleResources/Icon/f152.png
+    m_Address: ICON_f152
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 61db6cb8f5eedf64da1313b830deff8e
-    m_Address: Assets/AssetBundleResources/Icon/f204.png
+    m_Address: ICON_f204
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7143c68bf290057439590682b2f9f068
-    m_Address: Assets/AssetBundleResources/Icon/f187.png
+    m_Address: ICON_f187
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 71f99d8ad5354794fb9aba72b1c4c371
-    m_Address: Assets/AssetBundleResources/Icon/f183.png
+    m_Address: ICON_f183
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91c2d74c29ba9dd45809a15bbd7eb50f
-    m_Address: Assets/AssetBundleResources/Icon/f340.png
+    m_Address: ICON_f340
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 91dc82732f7742d4ca1e1246b1cc4263
-    m_Address: Assets/AssetBundleResources/Icon/f245.png
+    m_Address: ICON_f245
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a1d1fa1e52037f746b6247ca44200dcd
-    m_Address: Assets/AssetBundleResources/Icon/f353.png
+    m_Address: ICON_f353
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a18829c3efd7e7d44a070cc904865a82
-    m_Address: Assets/AssetBundleResources/Icon/f076.png
+    m_Address: ICON_f076
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a1ab83c590eddd54fb9bdf23d6e47eaa
-    m_Address: Assets/AssetBundleResources/Icon/f261.png
+    m_Address: ICON_f261
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b15a0cd8c281ffc4da3cfb093b48e37f
-    m_Address: Assets/AssetBundleResources/Icon/f117.png
+    m_Address: ICON_f117
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f11198ba47ec9534abcbb04e4bfebf6b
-    m_Address: Assets/AssetBundleResources/Icon/f091.png
+    m_Address: ICON_f091
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f14f4be102a16c94bb250d2dbbe51a64
-    m_Address: Assets/AssetBundleResources/Icon/f255.png
+    m_Address: ICON_f255
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 022a8b7899b97f945882b2bd56992506
-    m_Address: Assets/AssetBundleResources/Icon/f300.png
+    m_Address: ICON_f300
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2281c7563446c6c4fb619ac2e2b66c33
-    m_Address: Assets/AssetBundleResources/Icon/f172.png
+    m_Address: ICON_f172
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 223d515d9de2dce4b9540eb1070842fe
-    m_Address: Assets/AssetBundleResources/Icon/f250.png
+    m_Address: ICON_f250
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3220615ef5c4e51418684dfd6c5dcac4
-    m_Address: Assets/AssetBundleResources/Icon/f158.png
+    m_Address: ICON_f158
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3285148dfdeb7af4cb59af8c2ea399cd
-    m_Address: Assets/AssetBundleResources/Icon/f153.png
+    m_Address: ICON_f153
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 32afa144050736940ba1d49d331c1dc5
-    m_Address: Assets/AssetBundleResources/Icon/f259.png
+    m_Address: ICON_f259
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 42d579818e9561b40b02884db89d5243
-    m_Address: Assets/AssetBundleResources/Icon/f205.png
+    m_Address: ICON_f205
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 424d86cf51f2e6a4db8fb4ee8d49612f
-    m_Address: Assets/AssetBundleResources/Icon/f212.png
+    m_Address: ICON_f212
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 52757d67e49f572488912ba191ff7b6b
-    m_Address: Assets/AssetBundleResources/Icon/f331.png
+    m_Address: ICON_f331
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 528c3231fabb55f46b2f91072a556e07
-    m_Address: Assets/AssetBundleResources/Icon/f174.png
+    m_Address: ICON_f174
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 62967b651f01d5446917ecfd557f5774
-    m_Address: Assets/AssetBundleResources/Icon/f069.png
+    m_Address: ICON_f069
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 72fc775cab77a6b4d96981e403ef6bf6
-    m_Address: Assets/AssetBundleResources/Icon/f128.png
+    m_Address: ICON_f128
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82ed2ff6846610947a0e621e95f2bc56
-    m_Address: Assets/AssetBundleResources/Icon/f167.png
+    m_Address: ICON_f167
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a2bb75321b21ed54b860b0e30e2d84bd
-    m_Address: Assets/AssetBundleResources/Icon/f059.png
+    m_Address: ICON_f059
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2ccc4dceec389c428fd821b6326e82c
-    m_Address: Assets/AssetBundleResources/Icon/f012.png
+    m_Address: ICON_f012
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b2cdeda4d8ff90044a6a435e1ad351c0
-    m_Address: Assets/AssetBundleResources/Icon/f290.png
+    m_Address: ICON_f290
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e2d47045cfc0dbf4abb47a9f5b63e1f4
-    m_Address: Assets/AssetBundleResources/Icon/f356.png
+    m_Address: ICON_f356
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e2b938cd0614d8f4d8527e4adf887748
-    m_Address: Assets/AssetBundleResources/Icon/f282.png
+    m_Address: ICON_f282
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f2f76ad11243d344c9b6d9793bf0dd71
-    m_Address: Assets/AssetBundleResources/Icon/f020.png
+    m_Address: ICON_f020
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f21bfdfe341561c4aac47313d7b4e7e8
-    m_Address: Assets/AssetBundleResources/Icon/f181.png
+    m_Address: ICON_f181
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 03b09a1031149554e9af7510df4af8b7
-    m_Address: Assets/AssetBundleResources/Icon/f063.png
+    m_Address: ICON_f063
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 135545ea82c75a94ea1b458a85991b90
-    m_Address: Assets/AssetBundleResources/Icon/f317.png
+    m_Address: ICON_f317
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 13abb134235ea424691c4d7411ef353c
-    m_Address: Assets/AssetBundleResources/Icon/f262.png
+    m_Address: ICON_f262
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 33d546e313753294b97bd284ee05b458
-    m_Address: Assets/AssetBundleResources/Icon/f246.png
+    m_Address: ICON_f246
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 33dbd1b8f2592224e9fb47c08b7766ba
-    m_Address: Assets/AssetBundleResources/Icon/f025.png
+    m_Address: ICON_f025
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43d1e81007f0f874da1e0a3a1ac29278
-    m_Address: Assets/AssetBundleResources/Icon/f100.png
+    m_Address: ICON_f100
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43546242d11d78f44a8ac906595df28f
-    m_Address: Assets/AssetBundleResources/Icon/f233.png
+    m_Address: ICON_f233
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43d68cb6ca9d2674b8fefbba3c0f80e4
-    m_Address: Assets/AssetBundleResources/Icon/f134.png
+    m_Address: ICON_f134
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43ac0744cf8673349b0720fe20e5aeb5
-    m_Address: Assets/AssetBundleResources/Icon/f210.png
+    m_Address: ICON_f210
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 53a011a76ac171e44b7253a2feb07a28
-    m_Address: Assets/AssetBundleResources/Icon/f064.png
+    m_Address: ICON_f064
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 53e57bd622d552141b633ba935557d45
-    m_Address: Assets/AssetBundleResources/Icon/f297.png
+    m_Address: ICON_f297
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5316450bd0e938f489d4dddc79ad0b8e
-    m_Address: Assets/AssetBundleResources/Icon/f154.png
+    m_Address: ICON_f154
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 63cc5221041cd1945bf87ebb8cf88a1f
-    m_Address: Assets/AssetBundleResources/Icon/f351.png
+    m_Address: ICON_f351
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8325a5cde48453c4a93f94833c46911f
-    m_Address: Assets/AssetBundleResources/Icon/f178.png
+    m_Address: ICON_f178
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 83c9160c78fbb554dbcb5ce4449a1920
-    m_Address: Assets/AssetBundleResources/Icon/f244.png
+    m_Address: ICON_f244
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 834fd7091ae148442803ce6ed33b2663
-    m_Address: Assets/AssetBundleResources/Icon/f030.png
+    m_Address: ICON_f030
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 939e9df3fc4853640b9a787ce79e9276
-    m_Address: Assets/AssetBundleResources/Icon/f238.png
+    m_Address: ICON_f238
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a390efb6b4b7bfd4d81dacc2ce2ba2df
-    m_Address: Assets/AssetBundleResources/Icon/f124.png
+    m_Address: ICON_f124
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b325bb2f5794a6241ab2054d7545b0c4
-    m_Address: Assets/AssetBundleResources/Icon/f068.png
+    m_Address: ICON_f068
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b3c7fa2b09916914aa7fcbccf17e6b3d
-    m_Address: Assets/AssetBundleResources/Icon/f198.png
+    m_Address: ICON_f198
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c3ad812cd4df48c44a7a352e00cb9b8a
-    m_Address: Assets/AssetBundleResources/Icon/f039.png
+    m_Address: ICON_f039
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e30235bbed4ca074b8bb26b01ab5e79c
-    m_Address: Assets/AssetBundleResources/Icon/f186.png
+    m_Address: ICON_f186
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e3726dff795c15341b1e9988be6c3550
-    m_Address: Assets/AssetBundleResources/Icon/f218.png
+    m_Address: ICON_f218
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e3f42b90f9f6d8b4481c31e1d8e763ac
-    m_Address: Assets/AssetBundleResources/Icon/f126.png
+    m_Address: ICON_f126
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e30bbd2b1de4c0a4395a741753da2948
-    m_Address: Assets/AssetBundleResources/Icon/f349.png
+    m_Address: ICON_f349
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f3497d58c7cae4f41b14c9982f2c4612
-    m_Address: Assets/AssetBundleResources/Icon/f001.png
+    m_Address: ICON_f001
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 04e156ed3edb7ff49a676293a609ca6d
-    m_Address: Assets/AssetBundleResources/Icon/f105.png
+    m_Address: ICON_f105
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0483d1f26b9f52c479edd146855cc431
-    m_Address: Assets/AssetBundleResources/Icon/f318.png
+    m_Address: ICON_f318
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 04c5f3a215340f642985106fdb4f2f92
-    m_Address: Assets/AssetBundleResources/Icon/f131.png
+    m_Address: ICON_f131
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 24d89fcd3b2a95745a43136296af283b
-    m_Address: Assets/AssetBundleResources/Icon/f074.png
+    m_Address: ICON_f074
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 241c6730901723a4db185ab7cfaa8047
-    m_Address: Assets/AssetBundleResources/Icon/f281.png
+    m_Address: ICON_f281
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 34657efd178ce4148b71caf5a32f8c30
-    m_Address: Assets/AssetBundleResources/Icon/f359.png
+    m_Address: ICON_f359
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 44d958acb80cdae4e95855ce54ba4afc
-    m_Address: Assets/AssetBundleResources/Icon/f231.png
+    m_Address: ICON_f231
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 448d734b2c497fd46ba35eff132cb55d
-    m_Address: Assets/AssetBundleResources/Icon/f002.png
+    m_Address: ICON_f002
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 54c275182f982bb42943d862947d50d5
-    m_Address: Assets/AssetBundleResources/Icon/f116.png
+    m_Address: ICON_f116
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 54c2694c7b8153a40972d688c2af7415
-    m_Address: Assets/AssetBundleResources/Icon/f008.png
+    m_Address: ICON_f008
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 549405e7aee07e343baa2a7ded07ec96
-    m_Address: Assets/AssetBundleResources/Icon/f191.png
+    m_Address: ICON_f191
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5468121799fcb8d4e8dd468cfe419bbf
-    m_Address: Assets/AssetBundleResources/Icon/f083.png
+    m_Address: ICON_f083
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 646a081839a15cf44ad8512dacaa1b01
-    m_Address: Assets/AssetBundleResources/Icon/f207.png
+    m_Address: ICON_f207
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7463ee540ca17df4fb15589e15182863
-    m_Address: Assets/AssetBundleResources/Icon/f060.png
+    m_Address: ICON_f060
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 74b3671442374714180332a6f7c8eeee
-    m_Address: Assets/AssetBundleResources/Icon/f203.png
+    m_Address: ICON_f203
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 84177a71a97379c4689ac9142c7717af
-    m_Address: Assets/AssetBundleResources/Icon/f280.png
+    m_Address: ICON_f280
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9481adcb6c04c8b41afd1e87c212c094
-    m_Address: Assets/AssetBundleResources/Icon/f368.png
+    m_Address: ICON_f368
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 94b17cdaf1066a04abe8e4d0a88a9372
-    m_Address: Assets/AssetBundleResources/Icon/f171.png
+    m_Address: ICON_f171
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a41aedb4ed70b664c96608982172af63
-    m_Address: Assets/AssetBundleResources/Icon/f189.png
+    m_Address: ICON_f189
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b445c09137ea08c4796a59cde67bb3b1
-    m_Address: Assets/AssetBundleResources/Icon/f135.png
+    m_Address: ICON_f135
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b4b992489c940aa4280b1059619fd4ab
-    m_Address: Assets/AssetBundleResources/Icon/f211.png
+    m_Address: ICON_f211
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c4c212690715acb428b028a3963e2c7b
-    m_Address: Assets/AssetBundleResources/Icon/f222.png
+    m_Address: ICON_f222
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d4ec75fbdb0aa554685623cf861f7e67
-    m_Address: Assets/AssetBundleResources/Icon/f324.png
+    m_Address: ICON_f324
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f44eb8241806c8d46929a335e915484a
-    m_Address: Assets/AssetBundleResources/Icon/f110.png
+    m_Address: ICON_f110
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 05c01f98706ca194f93e05aa02892594
-    m_Address: Assets/AssetBundleResources/Icon/f315.png
+    m_Address: ICON_f315
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 05b8d55340f5f574a8f0cbff22052262
-    m_Address: Assets/AssetBundleResources/Icon/f092.png
+    m_Address: ICON_f092
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 050d8f5376d00914b8aad403214059d3
-    m_Address: Assets/AssetBundleResources/Icon/f169.png
+    m_Address: ICON_f169
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1564a2a1e890e7a4f8c550202ec00cf4
-    m_Address: Assets/AssetBundleResources/Icon/f133.png
+    m_Address: ICON_f133
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15ea1ea8d46a2b9439fe14576016f8af
-    m_Address: Assets/AssetBundleResources/Icon/f271.png
+    m_Address: ICON_f271
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 25948f0a15adeae4f94316f5c655b4fa
-    m_Address: Assets/AssetBundleResources/Icon/f047.png
+    m_Address: ICON_f047
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 25f64eca3570d7947b41c74a73616402
-    m_Address: Assets/AssetBundleResources/Icon/f363.png
+    m_Address: ICON_f363
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3557bcb8c2d3d2f47a208f758dae43bd
-    m_Address: Assets/AssetBundleResources/Icon/f327.png
+    m_Address: ICON_f327
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 45c895eaf8aedd94baa83c4f102ac13e
-    m_Address: Assets/AssetBundleResources/Icon/f197.png
+    m_Address: ICON_f197
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 45b9e24c3b35b9448a332ba8fc23ff4d
-    m_Address: Assets/AssetBundleResources/Icon/f193.png
+    m_Address: ICON_f193
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 454ee6fbb9b9f964289bb3cc4d3aac9d
-    m_Address: Assets/AssetBundleResources/Icon/f049.png
+    m_Address: ICON_f049
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 75a94dddc226cf3428432d6f5cf52b1e
-    m_Address: Assets/AssetBundleResources/Icon/f109.png
+    m_Address: ICON_f109
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 95ca91f8cf1a9a149a1f9c6b8a85abf3
-    m_Address: Assets/AssetBundleResources/Icon/f077.png
+    m_Address: ICON_f077
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a562a544cbb5d64479b73db67e92836d
-    m_Address: Assets/AssetBundleResources/Icon/f026.png
+    m_Address: ICON_f026
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a5e8eddc84c358543bb978003aa792cf
-    m_Address: Assets/AssetBundleResources/Icon/f339.png
+    m_Address: ICON_f339
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b5021d79c9dba0848b6e892f9c930e62
-    m_Address: Assets/AssetBundleResources/Icon/f096.png
+    m_Address: ICON_f096
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c5cc371f05631e246b2933abb3416d21
-    m_Address: Assets/AssetBundleResources/Icon/f087.png
+    m_Address: ICON_f087
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 06d9d3f69002ce549ad7195d363907d3
-    m_Address: Assets/AssetBundleResources/Icon/f294.png
+    m_Address: ICON_f294
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 064a746aa202f8a4b807ff078ea7d466
-    m_Address: Assets/AssetBundleResources/Icon/f029.png
+    m_Address: ICON_f029
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 069ac01110292824dbe2870a4e9dcf90
-    m_Address: Assets/AssetBundleResources/Icon/f247.png
+    m_Address: ICON_f247
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 062cb4fc29b73694ebd6227ffbee1a99
-    m_Address: Assets/AssetBundleResources/Icon/f240.png
+    m_Address: ICON_f240
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1650a96ffb0a4aa4d871b820b7b587a7
-    m_Address: Assets/AssetBundleResources/Icon/f044.png
+    m_Address: ICON_f044
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2686763242b571b45894e5b240c1c618
-    m_Address: Assets/AssetBundleResources/Icon/f097.png
+    m_Address: ICON_f097
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 363cdb304bd37624e8b1cedb6481efe8
-    m_Address: Assets/AssetBundleResources/Icon/f162.png
+    m_Address: ICON_f162
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 466ffbe2afc26f94eb791324c28df42a
-    m_Address: Assets/AssetBundleResources/Icon/f159.png
+    m_Address: ICON_f159
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 56e9f490b8f2efd49b22d5bfe0af4065
-    m_Address: Assets/AssetBundleResources/Icon/f241.png
+    m_Address: ICON_f241
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6609e401ef7bbb74c8e01ced0cc1d752
-    m_Address: Assets/AssetBundleResources/Icon/f223.png
+    m_Address: ICON_f223
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86cb59ad7a5c8ad41b2d3e13772e3686
-    m_Address: Assets/AssetBundleResources/Icon/f323.png
+    m_Address: ICON_f323
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 861c8c753c0d36547882dee3b937fbb1
-    m_Address: Assets/AssetBundleResources/Icon/f283.png
+    m_Address: ICON_f283
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a682379057505fe4da6d522891afdad5
-    m_Address: Assets/AssetBundleResources/Icon/f101.png
+    m_Address: ICON_f101
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a6358003a58830840b8c65539f27ec8b
-    m_Address: Assets/AssetBundleResources/Icon/f237.png
+    m_Address: ICON_f237
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a656e921286c058429b81a6b1ad4efee
-    m_Address: Assets/AssetBundleResources/Icon/f361.png
+    m_Address: ICON_f361
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a6e9a2977e794ac478a08f9f69fd92df
-    m_Address: Assets/AssetBundleResources/Icon/f144.png
+    m_Address: ICON_f144
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6aae39eba9a0414f8f755ea0e24e40e
-    m_Address: Assets/AssetBundleResources/Icon/f021.png
+    m_Address: ICON_f021
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b65da2a1175f578419263695caf1e77b
-    m_Address: Assets/AssetBundleResources/Icon/f234.png
+    m_Address: ICON_f234
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e667a23e290d16a4eb24a3761af5e52b
-    m_Address: Assets/AssetBundleResources/Icon/f143.png
+    m_Address: ICON_f143
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e609a75f99209ed4fb8b4782590fa5ee
-    m_Address: Assets/AssetBundleResources/Icon/f078.png
+    m_Address: ICON_f078
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f6727105ffc0eab44801ed5ee3bd842d
-    m_Address: Assets/AssetBundleResources/Icon/f023.png
+    m_Address: ICON_f023
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 07888c3a1b0a55a4d876330314bc0f2d
-    m_Address: Assets/AssetBundleResources/Icon/f161.png
+    m_Address: ICON_f161
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 07ce27855d8029743ac0c1b2cb2b7d34
-    m_Address: Assets/AssetBundleResources/Icon/f251.png
+    m_Address: ICON_f251
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1748ea4dd50480741b263821dea43079
-    m_Address: Assets/AssetBundleResources/Icon/f115.png
+    m_Address: ICON_f115
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 17b9541f338fb274ca58098308dc5ad8
-    m_Address: Assets/AssetBundleResources/Icon/f288.png
+    m_Address: ICON_f288
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 274c4984b17f6d54382154a3fd06925b
-    m_Address: Assets/AssetBundleResources/Icon/f346.png
+    m_Address: ICON_f346
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 27ad1ac7a0b399149b0cf7c726bd02f1
-    m_Address: Assets/AssetBundleResources/Icon/f016.png
+    m_Address: ICON_f016
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 27ddab20268fb754f8dd713ab34629d4
-    m_Address: Assets/AssetBundleResources/Icon/f036.png
+    m_Address: ICON_f036
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 37300f9787997614da3756533d945fa4
-    m_Address: Assets/AssetBundleResources/Icon/f166.png
+    m_Address: ICON_f166
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 675da87615516ab4ba06dbc704811e30
-    m_Address: Assets/AssetBundleResources/Icon/f242.png
+    m_Address: ICON_f242
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 77ead71f569e66540be8515b3b7d38d6
-    m_Address: Assets/AssetBundleResources/Icon/f217.png
+    m_Address: ICON_f217
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 87a0801ae859ebe488ced25ad48a5c78
-    m_Address: Assets/AssetBundleResources/Icon/f334.png
+    m_Address: ICON_f334
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 877feda6168f81c46901e28ac02ac918
-    m_Address: Assets/AssetBundleResources/Icon/f276.png
+    m_Address: ICON_f276
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 97a5d0abad7e51343b6bb51d295f3b42
-    m_Address: Assets/AssetBundleResources/Icon/f200.png
+    m_Address: ICON_f200
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a7d6b38096e96a94ea861401ff841e2c
-    m_Address: Assets/AssetBundleResources/Icon/f274.png
+    m_Address: ICON_f274
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a7aa480bcda77244db43e5c08b5568a2
-    m_Address: Assets/AssetBundleResources/Icon/f017.png
+    m_Address: ICON_f017
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b7d04faa4c1eb0c45a84288629864d90
-    m_Address: Assets/AssetBundleResources/Icon/f129.png
+    m_Address: ICON_f129
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b79132efc315b674bb7dc024dac7c2f3
-    m_Address: Assets/AssetBundleResources/Icon/f310.png
+    m_Address: ICON_f310
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d7b708660532fbd48b76fa9574317cc4
-    m_Address: Assets/AssetBundleResources/Icon/f188.png
+    m_Address: ICON_f188
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d70b3c9128dc1564d81f1e32e4012bb4
-    m_Address: Assets/AssetBundleResources/Icon/f040.png
+    m_Address: ICON_f040
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e7c5fe0d4a3952b428da84d453016318
-    m_Address: Assets/AssetBundleResources/Icon/f045.png
+    m_Address: ICON_f045
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f787248b8f60a1945a6e9e11ba94da82
-    m_Address: Assets/AssetBundleResources/Icon/f081.png
+    m_Address: ICON_f081
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f74e42c548a238047b464e116633e61a
-    m_Address: Assets/AssetBundleResources/Icon/f185.png
+    m_Address: ICON_f185
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 082098aea15c4a740bd6be8b54441f25
-    m_Address: Assets/AssetBundleResources/Icon/f209.png
+    m_Address: ICON_f209
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 08f67628dd560bf458eb5ae40c47c6d9
-    m_Address: Assets/AssetBundleResources/Icon/f052.png
+    m_Address: ICON_f052
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 18acfec44a482c84e90fc36e1143d5e3
-    m_Address: Assets/AssetBundleResources/Icon/f062.png
+    m_Address: ICON_f062
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2867f837993e60948a258be071e5d109
-    m_Address: Assets/AssetBundleResources/Icon/f314.png
+    m_Address: ICON_f314
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 388fb59cad1f1d646b63043820893032
-    m_Address: Assets/AssetBundleResources/Icon/f147.png
+    m_Address: ICON_f147
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 48a59370bf97d5645830a20bfea1ee0e
-    m_Address: Assets/AssetBundleResources/Icon/f285.png
+    m_Address: ICON_f285
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 485e9fd5f88947a4e89209f4053b2c57
-    m_Address: Assets/AssetBundleResources/Icon/f206.png
+    m_Address: ICON_f206
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 486f1f64a2ad78840ae7e2d679a17195
-    m_Address: Assets/AssetBundleResources/Icon/f196.png
+    m_Address: ICON_f196
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 58c65d8b354d0e84ca8f79317cd9206b
-    m_Address: Assets/AssetBundleResources/Icon/f236.png
+    m_Address: ICON_f236
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5828e213ad8609f4da8f23f30e3abe7a
-    m_Address: Assets/AssetBundleResources/Icon/f031.png
+    m_Address: ICON_f031
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 582e41be46ed67a4fac2e05214e25777
-    m_Address: Assets/AssetBundleResources/Icon/f072.png
+    m_Address: ICON_f072
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 68fd09891c369044ba767a8453e578c9
-    m_Address: Assets/AssetBundleResources/Icon/f296.png
+    m_Address: ICON_f296
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7879c4c71d2682a44bdcac9abe762b7a
-    m_Address: Assets/AssetBundleResources/Icon/f136.png
+    m_Address: ICON_f136
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 78ba7d90781acc94f98608ba9b469c51
-    m_Address: Assets/AssetBundleResources/Icon/f322.png
+    m_Address: ICON_f322
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 781b692d5140fa64d8a8a11424b0f111
-    m_Address: Assets/AssetBundleResources/Icon/f114.png
+    m_Address: ICON_f114
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 88237de9f4876e74c818c362ed19d118
-    m_Address: Assets/AssetBundleResources/Icon/f303.png
+    m_Address: ICON_f303
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8897cf84f8123044aa05eb76ad202bc1
-    m_Address: Assets/AssetBundleResources/Icon/f328.png
+    m_Address: ICON_f328
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 88d8d7248ce2fd64c9318748428ed807
-    m_Address: Assets/AssetBundleResources/Icon/f089.png
+    m_Address: ICON_f089
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 88797d3803a29fc49adfcb47192163ea
-    m_Address: Assets/AssetBundleResources/Icon/f225.png
+    m_Address: ICON_f225
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a85129bcee8b27f458622ee8db81fea4
-    m_Address: Assets/AssetBundleResources/Icon/f061.png
+    m_Address: ICON_f061
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a8335ba8381ea254aa9997f66fed6b36
-    m_Address: Assets/AssetBundleResources/Icon/f018.png
+    m_Address: ICON_f018
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a8e62e7b1f890ec42bf92bfd6ce7ca4f
-    m_Address: Assets/AssetBundleResources/Icon/f291.png
+    m_Address: ICON_f291
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b8735e38382a29f409e1dcd8b8d78659
-    m_Address: Assets/AssetBundleResources/Icon/f313.png
+    m_Address: ICON_f313
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c851a87d233cbe947b2cd50d515e779e
-    m_Address: Assets/AssetBundleResources/Icon/f041.png
+    m_Address: ICON_f041
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c8b183fe8462f554a854012b73db73d1
-    m_Address: Assets/AssetBundleResources/Icon/f341.png
+    m_Address: ICON_f341
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d8c44aec0ce944445a4083e86873c93d
-    m_Address: Assets/AssetBundleResources/Icon/f112.png
+    m_Address: ICON_f112
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e89edfd799a16a14d8f10978659ed1b0
-    m_Address: Assets/AssetBundleResources/Icon/f099.png
+    m_Address: ICON_f099
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f8c129bd363f79847958cbf92cd2b358
-    m_Address: Assets/AssetBundleResources/Icon/f164.png
+    m_Address: ICON_f164
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f8b23f7cad6c9b644b10c72920912902
-    m_Address: Assets/AssetBundleResources/Icon/f190.png
+    m_Address: ICON_f190
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0913ce866e89172439ef36406c7ab48f
-    m_Address: Assets/AssetBundleResources/Icon/f248.png
+    m_Address: ICON_f248
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 09087b8db5a4d3f469cd9ac0d8d75df6
-    m_Address: Assets/AssetBundleResources/Icon/f337.png
+    m_Address: ICON_f337
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 09bde0118ebc344408d2316bee4843f1
-    m_Address: Assets/AssetBundleResources/Icon/f348.png
+    m_Address: ICON_f348
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 19e13218a2105c4488286cf83125ff9b
-    m_Address: Assets/AssetBundleResources/Icon/f108.png
+    m_Address: ICON_f108
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 19ea4a5afa6e71c4597a27d22e657025
-    m_Address: Assets/AssetBundleResources/Icon/f329.png
+    m_Address: ICON_f329
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3903974a62e2c4a4e993c856d998cbc4
-    m_Address: Assets/AssetBundleResources/Icon/f042.png
+    m_Address: ICON_f042
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 39e8112c7252d1040b822ac0d41a7be6
-    m_Address: Assets/AssetBundleResources/Icon/f048.png
+    m_Address: ICON_f048
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 59e8a67100697ef47aaca7d5a5489802
-    m_Address: Assets/AssetBundleResources/Icon/f107.png
+    m_Address: ICON_f107
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 590ff2970d0d5b040b01654b94791ae9
-    m_Address: Assets/AssetBundleResources/Icon/f022.png
+    m_Address: ICON_f022
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 79dccbbcc9d722b4da3ee4ce37c01310
-    m_Address: Assets/AssetBundleResources/Icon/f184.png
+    m_Address: ICON_f184
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 79bfcf0700ada284ba45a82b7af7dfc2
-    m_Address: Assets/AssetBundleResources/Icon/f150.png
+    m_Address: ICON_f150
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b9f5ad9577fe6d1499ff329d39c7698b
-    m_Address: Assets/AssetBundleResources/Icon/f311.png
+    m_Address: ICON_f311
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b96c7bb4ba14ac242bf7b43698523195
-    m_Address: Assets/AssetBundleResources/Icon/f015.png
+    m_Address: ICON_f015
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9a6ad49e7de4cd4895694c8541b2a96
-    m_Address: Assets/AssetBundleResources/Icon/f054.png
+    m_Address: ICON_f054
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d90951318c1b903498d6ecde1cfd133d
-    m_Address: Assets/AssetBundleResources/Icon/f122.png
+    m_Address: ICON_f122
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d90f4fc3d93a72c4db4bb2fad1fa988d
-    m_Address: Assets/AssetBundleResources/Icon/f007.png
+    m_Address: ICON_f007
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e9f2879f5be21734b9c1227fd6f0a6b2
-    m_Address: Assets/AssetBundleResources/Icon/f079.png
+    m_Address: ICON_f079
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9a087031ad01d34480a70428e300dac
-    m_Address: Assets/AssetBundleResources/Icon/f024.png
+    m_Address: ICON_f024
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9639b87cd8346d4cb8acae335772e5d
-    m_Address: Assets/AssetBundleResources/Icon/f043.png
+    m_Address: ICON_f043
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f93b53ebb32186a48be5081f208c694a
-    m_Address: Assets/AssetBundleResources/Icon/f286.png
+    m_Address: ICON_f286
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9ab318be4aa0d14fbc183e1a257abb0
-    m_Address: Assets/AssetBundleResources/Icon/f338.png
+    m_Address: ICON_f338
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1a137954522b4c44988d9cf4dbb8318c
-    m_Address: Assets/AssetBundleResources/Icon/f228.png
+    m_Address: ICON_f228
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1ad6dde7670b02f4ea11a410df8a11cf
-    m_Address: Assets/AssetBundleResources/Icon/f019.png
+    m_Address: ICON_f019
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2ab4b28f0ee32f14abc9cd35b0ba371c
-    m_Address: Assets/AssetBundleResources/Icon/f214.png
+    m_Address: ICON_f214
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2acbd123dc184b04b9724915ef39bc85
-    m_Address: Assets/AssetBundleResources/Icon/f268.png
+    m_Address: ICON_f268
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3a4b20e0dd9b86b4e856b3339b197583
-    m_Address: Assets/AssetBundleResources/Icon/f345.png
+    m_Address: ICON_f345
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4ab59da8239397e42a38c394b358114e
-    m_Address: Assets/AssetBundleResources/Icon/f239.png
+    m_Address: ICON_f239
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4a59b300cd9966d4fb9267e3098ad6dd
-    m_Address: Assets/AssetBundleResources/Icon/f208.png
+    m_Address: ICON_f208
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4a3d128eef6c14a43a0c645ff9448bb3
-    m_Address: Assets/AssetBundleResources/Icon/f082.png
+    m_Address: ICON_f082
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5a8437a5b9debfb4d8e84d31237a59fe
-    m_Address: Assets/AssetBundleResources/Icon/f179.png
+    m_Address: ICON_f179
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6a8340c4eda0669479580988e2a55393
-    m_Address: Assets/AssetBundleResources/Icon/f106.png
+    m_Address: ICON_f106
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a96cb5207ee81840a4d65ae425e1338
-    m_Address: Assets/AssetBundleResources/Icon/f146.png
+    m_Address: ICON_f146
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a981e3834582f64fb5a6a8403e067e8
-    m_Address: Assets/AssetBundleResources/Icon/f050.png
+    m_Address: ICON_f050
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7abe05ef226a5834cb9b60747543d29e
-    m_Address: Assets/AssetBundleResources/Icon/f088.png
+    m_Address: ICON_f088
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa88af514d154ce4eb53d44f89da2777
-    m_Address: Assets/AssetBundleResources/Icon/f192.png
+    m_Address: ICON_f192
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ba81d5a866dd030498064fa6e6a9ed5b
-    m_Address: Assets/AssetBundleResources/Icon/f199.png
+    m_Address: ICON_f199
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ba53b38619840764ca39914ced93973a
-    m_Address: Assets/AssetBundleResources/Icon/f362.png
+    m_Address: ICON_f362
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ba7a6706147c7fb469eea86fd03edfe8
-    m_Address: Assets/AssetBundleResources/Icon/f086.png
+    m_Address: ICON_f086
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dae4f64dce9ea2e49adf7f12c1b1a5a9
-    m_Address: Assets/AssetBundleResources/Icon/f118.png
+    m_Address: ICON_f118
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dab804c15b830cf4491f0040e7dca5b5
-    m_Address: Assets/AssetBundleResources/Icon/f177.png
+    m_Address: ICON_f177
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eae823bbfa7b1ce4eb898f0712be9eb7
-    m_Address: Assets/AssetBundleResources/Icon/f355.png
+    m_Address: ICON_f355
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa31b428a9b505e4cbecca3f1eda171b
-    m_Address: Assets/AssetBundleResources/Icon/f220.png
+    m_Address: ICON_f220
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: faa40e5d991fbc7479f6deb659da7689
-    m_Address: Assets/AssetBundleResources/Icon/f140.png
+    m_Address: ICON_f140
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa79f9072a172b049b41ee1734f2b532
-    m_Address: Assets/AssetBundleResources/Icon/f035.png
+    m_Address: ICON_f035
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1bb5517ddd0e3bc42898053da70204b8
-    m_Address: Assets/AssetBundleResources/Icon/f160.png
+    m_Address: ICON_f160
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3b9e50344e9d0ab48ba8c293dba953dc
-    m_Address: Assets/AssetBundleResources/Icon/f357.png
+    m_Address: ICON_f357
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b518a91579bd4641828a099eae8bc21
-    m_Address: Assets/AssetBundleResources/Icon/f011.png
+    m_Address: ICON_f011
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5ba27c4eb92b353488e2bc8a209b8f8d
-    m_Address: Assets/AssetBundleResources/Icon/f219.png
+    m_Address: ICON_f219
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6bf83aa31947e98409e703a5503bb94c
-    m_Address: Assets/AssetBundleResources/Icon/f330.png
+    m_Address: ICON_f330
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b1f21cdb5f0be84bb36a552595d6f40
-    m_Address: Assets/AssetBundleResources/Icon/f336.png
+    m_Address: ICON_f336
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7bf36565611d05f469dc3f35bb1c3510
-    m_Address: Assets/AssetBundleResources/Icon/f067.png
+    m_Address: ICON_f067
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7b0f1179b9d07aa4ba5cff4be1dd0022
-    m_Address: Assets/AssetBundleResources/Icon/f130.png
+    m_Address: ICON_f130
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b680b8e51e24e848af0dc4e57bc0689
-    m_Address: Assets/AssetBundleResources/Icon/f344.png
+    m_Address: ICON_f344
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b61363c7e1cc4e43b1a924535f6fccc
-    m_Address: Assets/AssetBundleResources/Icon/f142.png
+    m_Address: ICON_f142
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ab5583df020692646aaa412d01940e9a
-    m_Address: Assets/AssetBundleResources/Icon/f111.png
+    m_Address: ICON_f111
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: abf61de2d4095db42b9888fc0c8fb356
-    m_Address: Assets/AssetBundleResources/Icon/f113.png
+    m_Address: ICON_f113
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ab2a92f561ffd0e478fd14c86a6261d4
-    m_Address: Assets/AssetBundleResources/Icon/f127.png
+    m_Address: ICON_f127
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bb615f4cf793caf4c8ba5e99e5696851
-    m_Address: Assets/AssetBundleResources/Icon/f263.png
+    m_Address: ICON_f263
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bb9a09221a4ae1b428c1b08c9af23401
-    m_Address: Assets/AssetBundleResources/Icon/f195.png
+    m_Address: ICON_f195
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb1746d5a4c16254a818af6a9bd5f5ad
-    m_Address: Assets/AssetBundleResources/Icon/f366.png
+    m_Address: ICON_f366
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: db312ada634af45409874b193106bcc8
-    m_Address: Assets/AssetBundleResources/Icon/f264.png
+    m_Address: ICON_f264
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: db849825cdc0406499e7c33329bcb4ab
-    m_Address: Assets/AssetBundleResources/Icon/f004.png
+    m_Address: ICON_f004
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebb5a1d0a4040ee45a807fd3ab6cb8f8
-    m_Address: Assets/AssetBundleResources/Icon/f284.png
+    m_Address: ICON_f284
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebd931f9e44997a4584e34ea448fe38c
-    m_Address: Assets/AssetBundleResources/Icon/f224.png
+    m_Address: ICON_f224
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eb7dccb7de1ec2a4bac0ae38930ea67a
-    m_Address: Assets/AssetBundleResources/Icon/f270.png
+    m_Address: ICON_f270
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebbe2b2ed160a3043a9a58e268a1bb89
-    m_Address: Assets/AssetBundleResources/Icon/f155.png
+    m_Address: ICON_f155
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0cb11221b94dcab4eb150a4c799f59ba
-    m_Address: Assets/AssetBundleResources/Icon/f003.png
+    m_Address: ICON_f003
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0caa483aaa0be0b42a1250f62b1c80ce
-    m_Address: Assets/AssetBundleResources/Icon/f139.png
+    m_Address: ICON_f139
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3c16f642f2b66ac4cb5d49007887c4fb
-    m_Address: Assets/AssetBundleResources/Icon/f005.png
+    m_Address: ICON_f005
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4cb7d228919888c448d38c63bc19b386
-    m_Address: Assets/AssetBundleResources/Icon/f293.png
+    m_Address: ICON_f293
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5c79f81507ea8bd40ab50b940d386f7c
-    m_Address: Assets/AssetBundleResources/Icon/f010.png
+    m_Address: ICON_f010
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6cf2f19f2383fc745928aff7d8292e3d
-    m_Address: Assets/AssetBundleResources/Icon/f037.png
+    m_Address: ICON_f037
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6c7ca29636a968846aa5dbaee1b7fe1f
-    m_Address: Assets/AssetBundleResources/Icon/f272.png
+    m_Address: ICON_f272
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6c3e044f1c0f51846aac9354b61198f4
-    m_Address: Assets/AssetBundleResources/Icon/f194.png
+    m_Address: ICON_f194
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8ce146d9e0ceaac40891b59b67620c53
-    m_Address: Assets/AssetBundleResources/Icon/f148.png
+    m_Address: ICON_f148
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9cb5300ef8e06a04883c9ed69f4dd603
-    m_Address: Assets/AssetBundleResources/Icon/f360.png
+    m_Address: ICON_f360
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bcc697e0cb7b1314a93dd024995a2c79
-    m_Address: Assets/AssetBundleResources/Icon/f305.png
+    m_Address: ICON_f305
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bc1cef5a841d1c84b91f904338b01ed3
-    m_Address: Assets/AssetBundleResources/Icon/f138.png
+    m_Address: ICON_f138
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cc979b3ac53fcae4e82ec1d643b0ea8b
-    m_Address: Assets/AssetBundleResources/Icon/f298.png
+    m_Address: ICON_f298
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc7616760007f614281ebc4bfe32e71b
-    m_Address: Assets/AssetBundleResources/Icon/f180.png
+    m_Address: ICON_f180
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc77d7897725f244b9975dfb61794006
-    m_Address: Assets/AssetBundleResources/Icon/f216.png
+    m_Address: ICON_f216
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc2851e6a50a28542b83b57ee09d01b0
-    m_Address: Assets/AssetBundleResources/Icon/f071.png
+    m_Address: ICON_f071
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc6ca6f5e3b98664a88d4c9bfb5f7748
-    m_Address: Assets/AssetBundleResources/Icon/f325.png
+    m_Address: ICON_f325
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dcee024f0f849fe49886bfc783a50b52
-    m_Address: Assets/AssetBundleResources/Icon/f051.png
+    m_Address: ICON_f051
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc6f408e5d7d6cc448265dbd81293706
-    m_Address: Assets/AssetBundleResources/Icon/f347.png
+    m_Address: ICON_f347
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec92481fd7c7d5145915fab3e599686b
-    m_Address: Assets/AssetBundleResources/Icon/f149.png
+    m_Address: ICON_f149
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec1b051fd13ea5e42b538e738f04301b
-    m_Address: Assets/AssetBundleResources/Icon/f308.png
+    m_Address: ICON_f308
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fcf8d16a154b4bd44bf43ba724fa7bb9
-    m_Address: Assets/AssetBundleResources/Icon/f009.png
+    m_Address: ICON_f009
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0dfdeb1b7a172204e8c34a1eacd426af
-    m_Address: Assets/AssetBundleResources/Icon/f279.png
+    m_Address: ICON_f279
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d08fe605804d19439f3b5a95ee76e71
-    m_Address: Assets/AssetBundleResources/Icon/f038.png
+    m_Address: ICON_f038
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d555548784fa7c40a93b11e99c2849f
-    m_Address: Assets/AssetBundleResources/Icon/f156.png
+    m_Address: ICON_f156
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d715cae4ceee9e46bc63d6d8c76af7f
-    m_Address: Assets/AssetBundleResources/Icon/f173.png
+    m_Address: ICON_f173
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d945ec3a5786f841943b67f18b8b952
-    m_Address: Assets/AssetBundleResources/Icon/f230.png
+    m_Address: ICON_f230
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3da7065cbee1ade46b303054144c4801
-    m_Address: Assets/AssetBundleResources/Icon/f145.png
+    m_Address: ICON_f145
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d2c061fa1748dd4e847406ca181170f
-    m_Address: Assets/AssetBundleResources/Icon/f342.png
+    m_Address: ICON_f342
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4db02123a97aecc4282628d9dd0390d1
-    m_Address: Assets/AssetBundleResources/Icon/f202.png
+    m_Address: ICON_f202
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5df700bf3c14f9441bb12d16b9e0dfc7
-    m_Address: Assets/AssetBundleResources/Icon/f343.png
+    m_Address: ICON_f343
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5deffdad1ad284e4982bf7d793796a5d
-    m_Address: Assets/AssetBundleResources/Icon/f226.png
+    m_Address: ICON_f226
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6deccf7d49af2904a920bf2d296af93f
-    m_Address: Assets/AssetBundleResources/Icon/f119.png
+    m_Address: ICON_f119
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8dd0b3472986dce4a918cc3a68a12ab8
-    m_Address: Assets/AssetBundleResources/Icon/f235.png
+    m_Address: ICON_f235
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8d0160b4659bf924eb20f30209031d19
-    m_Address: Assets/AssetBundleResources/Icon/f094.png
+    m_Address: ICON_f094
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8d5c4cde2a448e249bc1d944ff7e2d30
-    m_Address: Assets/AssetBundleResources/Icon/f085.png
+    m_Address: ICON_f085
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9d20921b6dc30bf4a82cdb3806c7eca0
-    m_Address: Assets/AssetBundleResources/Icon/f053.png
+    m_Address: ICON_f053
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9d364851dd14f26469b612859200e395
-    m_Address: Assets/AssetBundleResources/Icon/f287.png
+    m_Address: ICON_f287
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bd567903f09c6b649a712bb526d35795
-    m_Address: Assets/AssetBundleResources/Icon/f102.png
+    m_Address: ICON_f102
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bd7a2d34179d44249abe36f31c2142e0
-    m_Address: Assets/AssetBundleResources/Icon/f132.png
+    m_Address: ICON_f132
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bdaf743cf3957d74987b4991a122b0b4
-    m_Address: Assets/AssetBundleResources/Icon/f370.png
+    m_Address: ICON_f370
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd5167d61e1133249b0ea5ccf731edfe
-    m_Address: Assets/AssetBundleResources/Icon/f306.png
+    m_Address: ICON_f306
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd02aa96053f3934a922e7347a1d10d8
-    m_Address: Assets/AssetBundleResources/Icon/f260.png
+    m_Address: ICON_f260
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cdc6f50d9f430d44ba9b9dde98a2f82e
-    m_Address: Assets/AssetBundleResources/Icon/f163.png
+    m_Address: ICON_f163
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd5fa7120b771f34aa4f4fefe8571798
-    m_Address: Assets/AssetBundleResources/Icon/f141.png
+    m_Address: ICON_f141
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ddebabf87d1d7bc489b52cfaef3227f8
-    m_Address: Assets/AssetBundleResources/Icon/f046.png
+    m_Address: ICON_f046
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed51772f43a788149bfcb946efab0b60
-    m_Address: Assets/AssetBundleResources/Icon/f243.png
+    m_Address: ICON_f243
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: edf2404bc9d73fb4c98a6654ceaf4308
-    m_Address: Assets/AssetBundleResources/Icon/f075.png
+    m_Address: ICON_f075
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eda51f2b87ee36944ab251f2a2ec35f4
-    m_Address: Assets/AssetBundleResources/Icon/f006.png
+    m_Address: ICON_f006
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: edf54a0e244c9934096b6a08a85b411c
-    m_Address: Assets/AssetBundleResources/Icon/f326.png
+    m_Address: ICON_f326
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed2f064e278cab246a4c92e2e417af08
-    m_Address: Assets/AssetBundleResources/Icon/f252.png
+    m_Address: ICON_f252
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed3fed60c9ab74a458b65c20b2d84774
-    m_Address: Assets/AssetBundleResources/Icon/f229.png
+    m_Address: ICON_f229
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1e7a74d8efce4c54fa634cfec357443d
-    m_Address: Assets/AssetBundleResources/Icon/f358.png
+    m_Address: ICON_f358
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e044a61f2fc2304b8935e2b35e90db9
-    m_Address: Assets/AssetBundleResources/Icon/f093.png
+    m_Address: ICON_f093
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e8cc7efcbf5e9c459c4d3b3b937e76e
-    m_Address: Assets/AssetBundleResources/Icon/f350.png
+    m_Address: ICON_f350
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4ec24a88e9e71944995cfde206d20af2
-    m_Address: Assets/AssetBundleResources/Icon/f321.png
+    m_Address: ICON_f321
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e86478a5b6e8a74c97bcd9c82255456
-    m_Address: Assets/AssetBundleResources/Icon/f013.png
+    m_Address: ICON_f013
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e47466fa64ea824bb76922b6986e35b
-    m_Address: Assets/AssetBundleResources/Icon/f258.png
+    m_Address: ICON_f258
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e4967822b4454d4f82f8bde952c69ce
-    m_Address: Assets/AssetBundleResources/Icon/f151.png
+    m_Address: ICON_f151
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6e000f68ef1945c4da80922cd8d52e85
-    m_Address: Assets/AssetBundleResources/Icon/f289.png
+    m_Address: ICON_f289
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6e157e9642172ee48b35bf888fb390d4
-    m_Address: Assets/AssetBundleResources/Icon/f278.png
+    m_Address: ICON_f278
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7eb6c92539d4d6b459c7c39b9b52b03b
-    m_Address: Assets/AssetBundleResources/Icon/f120.png
+    m_Address: ICON_f120
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e9d2d18a021d044fa0b9b46717295f3
-    m_Address: Assets/AssetBundleResources/Icon/f033.png
+    m_Address: ICON_f033
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e33583d7b8fab541aacec52ae5b4ae4
-    m_Address: Assets/AssetBundleResources/Icon/f354.png
+    m_Address: ICON_f354
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e83a0793eabf654baf1b26761d21fd3
-    m_Address: Assets/AssetBundleResources/Icon/f221.png
+    m_Address: ICON_f221
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aec7dcd1a482b4d43b3e6f07cba91cb9
-    m_Address: Assets/AssetBundleResources/Icon/f014.png
+    m_Address: ICON_f014
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aeba7432113b2e34c9300e14391b0a5d
-    m_Address: Assets/AssetBundleResources/Icon/f066.png
+    m_Address: ICON_f066
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: be049610942b93c4f904618ab6d077ab
-    m_Address: Assets/AssetBundleResources/Icon/f058.png
+    m_Address: ICON_f058
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: be7e3b164e37b0944b505bdbf178eea2
-    m_Address: Assets/AssetBundleResources/Icon/f201.png
+    m_Address: ICON_f201
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ce73ce27a8f027d4d93375e8cb288809
-    m_Address: Assets/AssetBundleResources/Icon/f333.png
+    m_Address: ICON_f333
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ceb91250cad6afd4bbd863ddad6bdc28
-    m_Address: Assets/AssetBundleResources/Icon/f332.png
+    m_Address: ICON_f332
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee718d3ef815f364885b6fa6b3a2073b
-    m_Address: Assets/AssetBundleResources/Icon/f055.png
+    m_Address: ICON_f055
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee26f3135298aab43b1736c7b61b9607
-    m_Address: Assets/AssetBundleResources/Icon/f098.png
+    m_Address: ICON_f098
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee86c6c13d931f24fa675d1d96dbb412
-    m_Address: Assets/AssetBundleResources/Icon/f157.png
+    m_Address: ICON_f157
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe09339883b250f4d84c04a68822bbf8
-    m_Address: Assets/AssetBundleResources/Icon/f307.png
+    m_Address: ICON_f307
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe4d0e7063b2b18458b84e20fb9fa19d
-    m_Address: Assets/AssetBundleResources/Icon/f273.png
+    m_Address: ICON_f273
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f2b902b1e8535e438cdec5fbc8ecf42
-    m_Address: Assets/AssetBundleResources/Icon/f254.png
+    m_Address: ICON_f254
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f0222e606ed4f449b897a935092eb87
-    m_Address: Assets/AssetBundleResources/Icon/f176.png
+    m_Address: ICON_f176
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f8eef2ce00e0224fa425d9a2eaaf37a
-    m_Address: Assets/AssetBundleResources/Icon/f335.png
+    m_Address: ICON_f335
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f12ec0849b4e084e9e99ab0ba6e5aa9
-    m_Address: Assets/AssetBundleResources/Icon/f182.png
+    m_Address: ICON_f182
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2fec663aa4fde0c41a1f6a5161aefe82
-    m_Address: Assets/AssetBundleResources/Icon/f369.png
+    m_Address: ICON_f369
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f54c6f17e23dbe499b5d3e2b3a1b37c
-    m_Address: Assets/AssetBundleResources/Icon/f312.png
+    m_Address: ICON_f312
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f6ef17d2eb932a4e9d5464d4cbea6e8
-    m_Address: Assets/AssetBundleResources/Icon/f104.png
+    m_Address: ICON_f104
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5fb569fba98464e42857842b2b121834
-    m_Address: Assets/AssetBundleResources/Icon/f137.png
+    m_Address: ICON_f137
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6fb1465797260de4e896d07c48b3aae2
-    m_Address: Assets/AssetBundleResources/Icon/f367.png
+    m_Address: ICON_f367
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6fc786ac348108643b77de82b3830896
-    m_Address: Assets/AssetBundleResources/Icon/f277.png
+    m_Address: ICON_f277
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6f6a3aa64a665c540a7346df445d254e
-    m_Address: Assets/AssetBundleResources/Icon/f125.png
+    m_Address: ICON_f125
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6f6b5e0df852cf34b95bc1e147068a79
-    m_Address: Assets/AssetBundleResources/Icon/f215.png
+    m_Address: ICON_f215
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6f5fbeef7f886474bb3290ba37fa2a71
-    m_Address: Assets/AssetBundleResources/Icon/f302.png
+    m_Address: ICON_f302
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f61486a160fc284eaf513b521b7c16d
-    m_Address: Assets/AssetBundleResources/Icon/f095.png
+    m_Address: ICON_f095
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f27b0a24135f914cbce947c144ccba0
-    m_Address: Assets/AssetBundleResources/Icon/f299.png
+    m_Address: ICON_f299
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8f1eba9bb189d6a4a9bf15ca8b03480b
-    m_Address: Assets/AssetBundleResources/Icon/f316.png
+    m_Address: ICON_f316
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f63d1b1279d806478399a3755f5db8e
-    m_Address: Assets/AssetBundleResources/Icon/f084.png
+    m_Address: ICON_f084
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af3934f3bd39a524cabaa5289b8f5aff
-    m_Address: Assets/AssetBundleResources/Icon/f267.png
+    m_Address: ICON_f267
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af59e7b0c6367c64bb1397e3bc7d91b7
-    m_Address: Assets/AssetBundleResources/Icon/f269.png
+    m_Address: ICON_f269
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af8b13814a4a6814b9eb85435b3e6522
-    m_Address: Assets/AssetBundleResources/Icon/f319.png
+    m_Address: ICON_f319
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bf5d9099a77df11428443dec280fd36d
-    m_Address: Assets/AssetBundleResources/Icon/f253.png
+    m_Address: ICON_f253
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dfa271534fb9ebe4bb8dab412fc173c8
-    m_Address: Assets/AssetBundleResources/Icon/f103.png
+    m_Address: ICON_f103
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: df6a5561b7176384b87cbeadd2fb18e4
-    m_Address: Assets/AssetBundleResources/Icon/f257.png
+    m_Address: ICON_f257
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: efa35d818524f214898a3c0c2c9e5def
-    m_Address: Assets/AssetBundleResources/Icon/f304.png
+    m_Address: ICON_f304
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ef4b4246045057f4ca2097d505210732
-    m_Address: Assets/AssetBundleResources/Icon/f057.png
+    m_Address: ICON_f057
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: efdca2a3169e8aa4cb1a08295a27a46c
-    m_Address: Assets/AssetBundleResources/Icon/f034.png
+    m_Address: ICON_f034
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ff768a64e26e34344a892c417ded350f
-    m_Address: Assets/AssetBundleResources/Icon/f213.png
+    m_Address: ICON_f213
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ffdfe1f1b4a1fdf4ab00719ea20a8549
-    m_Address: Assets/AssetBundleResources/Icon/f365.png
+    m_Address: ICON_f365
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
+    - jewel
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 79a24eeff0e9da3488937305c90091ae, type: 2}

@@ -229,8 +229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c83e8fdec4062e4e9978754bab58d71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _label: Jewel
-  _key: f152
+  _label: jewel
+  _key: ICON_f152
   _target: {fileID: 1571095587}
 --- !u!114 &134304998
 MonoBehaviour:

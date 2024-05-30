@@ -72,6 +72,7 @@ MonoBehaviour:
             _filters:
               _internalList:
               - rid: 4601861295841738757
+              - rid: 4601861454323778673
         _addressProviderInternal:
           rid: 4601861295841738756
       - _id: a47503c7-e55d-4ecb-80c9-e00ee6c71de9
@@ -192,10 +193,10 @@ MonoBehaviour:
     - rid: 4601861295841738756
       type: {class: AssetPathBasedAddressProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.AddressRules, asm: SmartAddresser.Editor}
       data:
-        _source: 2
-        _replaceWithRegex: 0
-        _pattern: 
-        _replacement: 
+        _source: 1
+        _replaceWithRegex: 1
+        _pattern: ^
+        _replacement: ICON_
     - rid: 4601861295841738757
       type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
       data:
@@ -304,3 +305,11 @@ MonoBehaviour:
         _replaceWithRegex: 1
         _pattern: ^
         _replacement: MYP_
+    - rid: 4601861454323778673
+      type: {class: ExtensionBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
+      data:
+        _id: 5f262f4a-5bfb-4251-8da2-cf84f938ae94
+        _extension:
+          _isListMode: 0
+          _values:
+          - .png
