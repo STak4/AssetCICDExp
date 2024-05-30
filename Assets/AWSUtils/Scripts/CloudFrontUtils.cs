@@ -40,11 +40,19 @@ namespace AWSUtils
                 InvalidationBatch = invalidationBatch
             };
 
-            var response = await client.CreateInvalidationAsync(request); 
-            if (response.HttpStatusCode == System.Net.HttpStatusCode.Created)
+            try
             {
-                Debug.Log($"[CloudFront][CreateInvalidation] キャッシュ削除リクエスト完了. ID:{response.Invalidation.Id}");
-                return response.Invalidation.Id;
+                var response = await client.CreateInvalidationAsync(request); 
+                if (response.HttpStatusCode == System.Net.HttpStatusCode.Created)
+                {
+                    Debug.Log($"[CloudFront][CreateInvalidation] キャッシュ削除リクエスト完了. ID:{response.Invalidation.Id}");
+                    return response.Invalidation.Id;
+                }
+            }
+            catch (Exception e)
+            {
+                Debug.LogError($"[CloudFront][CreateInvalidation] {e.Message}");
+                throw;
             }
             
             return string.Empty;
@@ -57,26 +65,35 @@ namespace AWSUtils
         /// <param name="distributionId">CloudFront配信のID</param>
         public static async Task<bool> IsInvalidationProgress(AmazonCloudFrontClient client, string distributionId)
         {
-            Debug.Log($"[CloudFront][CreateInvalidation] キャッシュ削除ステータス確認.");
+            Debug.Log($"[CloudFront][IsInvalidation] キャッシュ削除ステータス確認.");
             
             var request = new ListInvalidationsRequest()
             {
                 DistributionId = distributionId
             };
 
-            var response = await client.ListInvalidationsAsync(request);
-
-            int inProgress = 0;
-            foreach (var item in response.InvalidationList.Items)
+            try
             {
-                if (item.Status == "InProgress")
-                {
-                    inProgress++;
-                }
-            }
+                var response = await client.ListInvalidationsAsync(request);
 
-            Debug.Log($"[CloudFront][CreateInvalidation] キャッシュ削除進行中か？ {inProgress > 0}");
-            return inProgress > 0;
+                int inProgress = 0;
+                foreach (var item in response.InvalidationList.Items)
+                {
+                    if (item.Status == "InProgress")
+                    {
+                        inProgress++;
+                    }
+                }
+                
+                Debug.Log($"[CloudFront][IsInvalidation] キャッシュ削除進行中か？ {inProgress > 0}");
+                return inProgress > 0;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                Debug.LogError($"[CloudFront][IsInvalidation] {e.Message}");
+                return false;
+            }
         }
     }
 }
