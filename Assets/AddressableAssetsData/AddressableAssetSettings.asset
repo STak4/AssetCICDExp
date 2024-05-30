@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: cc1126a327bced04088b1a8d3fc259df
   m_currentHash:
     serializedVersion: 2
-    Hash: 65fc967717fb42205eb2ec24076212b1
+    Hash: 2f079f7077f9d2e1ebf88711865fa1af
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -92,6 +92,8 @@ MonoBehaviour:
     - default
     - Jewel
     - DLC
+    - jewel
+    - dlc
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 12749a21cc30ca24292cac4c49509c8c, type: 2}

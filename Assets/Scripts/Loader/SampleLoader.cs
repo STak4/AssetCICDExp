@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Cysharp.Threading.Tasks;
-using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
@@ -33,6 +32,7 @@ namespace STak4.AssetCICD.Loader
             // 経過時間計測用
             var start = DateTime.Now;
             
+            Debug.Log($"[Debug] Download called. locations:{all.Count}");
             // DependencyHashCodeでグルーピングをし、アセットバンドル単位でダウンロードする
             // https://blog.gigacreation.jp/entry/2021/12/28/195920
             // 直列ダウンロード

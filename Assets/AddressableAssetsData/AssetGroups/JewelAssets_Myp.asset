@@ -21,2591 +21,2591 @@ MonoBehaviour:
     m_Address: MYP_f221
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 005b93ebe228d7e46a4f21c0268f197a
     m_Address: MYP_f155
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10b3fe5f91188ff4eb5d5cdabd0b073c
     m_Address: MYP_f195
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 10e8fd0bb0a01094597973fac15498c1
     m_Address: MYP_f115
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 20d337c82bd0fd4488dd123dbd7e106d
     m_Address: MYP_f276
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3008b684ff8f5ad40be778cf20a0ec5e
     m_Address: MYP_f113
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 309cbb27acb301c4dae4ac6e12c687d0
     m_Address: MYP_f253
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4084d526e88a0334197ffaab11cb2683
     m_Address: MYP_f304
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 409865327a2c0824bae01f78aecd8771
     m_Address: MYP_f265
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 409d723b976120b4688ee321ddf24f0f
     m_Address: MYP_f014
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6000045cfc5c65a4aac69c0aa93052a6
     m_Address: MYP_f307
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8006bc9a3f106a447ad3f9d974deecdf
     m_Address: MYP_f188
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 80b9a01f1f59c1f4aaaca874f09b577c
     m_Address: MYP_f167
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 900eb807a8403a846b1c138cc1b09814
     m_Address: MYP_f042
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b0093d3e088770242966ef5a003861a4
     m_Address: MYP_f002
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c070b13e03aec854198eabd34d9cdf3e
     m_Address: MYP_f266
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c0b009d0eee55cc4c90b370d19d6f0bf
     m_Address: MYP_f005
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e0df09a7aa27ba644a1a5e25c547e628
     m_Address: MYP_f258
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f0aa8ab8abb288349b7d1e11243c74b0
     m_Address: MYP_f035
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f00f27bc6e40aee4cabc7893f4c658b5
     m_Address: MYP_f211
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01d3f71f42a6fa04a8aef177c7d336a6
     m_Address: MYP_f283
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 11c55c967ca0b254ba0bf8f2192f61b5
     m_Address: MYP_f204
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 21711d42a84914e42aed6ba51ef2642e
     m_Address: MYP_f096
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 21c84598b24ddb6479af02315be5145f
     m_Address: MYP_f360
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 214af323ff6cce148a2aa2df49bc02f7
     m_Address: MYP_f362
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 51b87f20361998b4c9730e88940a58af
     m_Address: MYP_f287
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 510d66a9a2f5d0049bc1a80220af7516
     m_Address: MYP_f322
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 619ca2bf43ed49f47aa88a35def2474a
     m_Address: MYP_f019
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 618d547ecb75d06468dd4a56f6528395
     m_Address: MYP_f117
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 71e7f666d8b928949b60c5ef5295686c
     m_Address: MYP_f024
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 813f1e1f032176b469da79a03a603c6c
     m_Address: MYP_f187
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b138ac256bb16b141a7d50487ad5f2d5
     m_Address: MYP_f097
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b15fd5d77cf822b4fae3f213d5b9a4a0
     m_Address: MYP_f094
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c1d462dc80bffbc4fa63f5ac217c0134
     m_Address: MYP_f072
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c13917dd23d615a41b5e8df2039c33e5
     m_Address: MYP_f102
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c11aa8a32fb3b964098618302b7de2cb
     m_Address: MYP_f370
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e184bb1cff0e40a41bf64d2a162f8b60
     m_Address: MYP_f263
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e1aa125aafd61274c88bd1ebd8069630
     m_Address: MYP_f339
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e11d897fe574a4143816dac1b1a4cefd
     m_Address: MYP_f001
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f17578ae4f9279545a14165a856ba286
     m_Address: MYP_f189
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f166a265824e9c44082a542f8b18cdc5
     m_Address: MYP_f227
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0277cde89f6087d4aaf423e56a3dca84
     m_Address: MYP_f366
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 22b9e38d2fbc6084b89f54f4dae0893b
     m_Address: MYP_f241
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 326713404fa91f94ab804668674f15ad
     m_Address: MYP_f248
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 42181273baa3f3043bbe3f0ad5a20eb0
     m_Address: MYP_f156
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 52d225a7de29e594dacb648b92380fcb
     m_Address: MYP_f190
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 52a7c39f39a864a4890046e7c4559d98
     m_Address: MYP_f147
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7270ca40d2bd2b440bfcf02dd62e9bae
     m_Address: MYP_f294
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8206a27abdaabe446b01c1771e183c52
     m_Address: MYP_f169
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 825646e11914ba240b759c716194dd2c
     m_Address: MYP_f137
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a26b82b634f151f418530d05fb7af6ce
     m_Address: MYP_f127
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c2f06ae6d29f9b8448772fa963cf4512
     m_Address: MYP_f200
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d2463f34baeab7546bf76f9af681b783
     m_Address: MYP_f286
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d258f28fc9d8d5444a3727fb3456e000
     m_Address: MYP_f073
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d25976c3cb699be48b3289696acef978
     m_Address: MYP_f034
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e2b3047899347e040904c60ea140217e
     m_Address: MYP_f107
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f29225cc11255414fae0cd9f8e05cec1
     m_Address: MYP_f311
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0302791f2ebe43d46a71c76da941a360
     m_Address: MYP_f138
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1306b920e187f9243acc03e43f230df8
     m_Address: MYP_f207
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 23ec48cf1d35ac349920da7022d32a9b
     m_Address: MYP_f093
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 23adf5611dfc35340b175ea96d68429c
     m_Address: MYP_f123
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 33507eb58444cd54b89b99ad609a3ae7
     m_Address: MYP_f028
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43f03ad7d0ba09f4d8446a6ef29db73f
     m_Address: MYP_f114
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43b7e1c6cfee8aa48b700a90dc281f3f
     m_Address: MYP_f329
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 434eecc266d503f41b6e9255fbefcc53
     m_Address: MYP_f031
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43bf23bfee3a8184280bb1e92c100110
     m_Address: MYP_f025
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5310f29403e61554b9f5f999d3665265
     m_Address: MYP_f242
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8333e1e23302fce42af023e7acd033b5
     m_Address: MYP_f303
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 838e3e9561bbba44b928ded8e1f85101
     m_Address: MYP_f233
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 93fbe88490e73ea4cb8ab72f09a7c4f6
     m_Address: MYP_f349
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a301de02b0e2ab94f8ba14e796be3022
     m_Address: MYP_f252
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a36b566dc15069c4c914e648ecc53302
     m_Address: MYP_f168
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b3f14c250d03c4f47927009c75e40b53
     m_Address: MYP_f154
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d314e280f9c08be419b852727b3e2539
     m_Address: MYP_f219
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f3d336930e1c65d45a586d0161c5e9ac
     m_Address: MYP_f364
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f34c01a386a78384bb948387015f8dfe
     m_Address: MYP_f212
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 14bc07fd147d41f40bf2b710fea78ab4
     m_Address: MYP_f172
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 24c903094052e7c4798d524268306dcb
     m_Address: MYP_f308
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 347f945b418422243875efc4ab73c874
     m_Address: MYP_f161
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 44cfcc6fa133b6846bc11382c1e72054
     m_Address: MYP_f268
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 54d8e5d75a0739148b25dc8013f21772
     m_Address: MYP_f309
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 541ead28a41bf7a4eafe54914c376b11
     m_Address: MYP_f088
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 740af43fbede9ec4483ef31106bdd8bb
     m_Address: MYP_f193
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a4ddee7cbe94be740a0771215e79f4b8
     m_Address: MYP_f217
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b4002755f7509fc4c90034a36dfccad4
     m_Address: MYP_f017
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d407dd22f09b8d240876a1efb3effb11
     m_Address: MYP_f003
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d4aafc3daa6029949a5f96e5a324aeb5
     m_Address: MYP_f313
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d4dede1ec2315e849b1fc87d38aeb86c
     m_Address: MYP_f116
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e4a10c6b66a7f174eadc0e2eaa17f7d8
     m_Address: MYP_f118
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e4e3c563f6b97f241891e510ff677a17
     m_Address: MYP_f238
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e455ea67e8ddbe04d9d6a8c5de87dbe1
     m_Address: MYP_f022
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f4d07dbb1a3e58c4680c30520d04bc31
     m_Address: MYP_f206
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f488b5c674921714eb09dcd0709805b5
     m_Address: MYP_f110
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f44bf2840c7b8484b919fa94932dcd83
     m_Address: MYP_f087
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0569f5c8c86cfff4da171f6bbdff62e8
     m_Address: MYP_f026
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 054eed5d6bf7e4f4eb491418a7d43143
     m_Address: MYP_f210
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15f6c67087135ca449c68037d93806f8
     m_Address: MYP_f089
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2522889fbfd2ce34c8e5dbf296614bc3
     m_Address: MYP_f041
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2585c4bf0ee8e2e43bf27959f180921e
     m_Address: MYP_f163
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 25369a5ebcba29049bdeba1196b18c1c
     m_Address: MYP_f071
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2586552ce6b0081449ee7adf0538a334
     m_Address: MYP_f174
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 25371a3549253324191179dd66025833
     m_Address: MYP_f125
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3534afa6c4b36234391e2d70b38cf4c6
     m_Address: MYP_f012
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55027f878f0b6e8438d2c300e961128f
     m_Address: MYP_f081
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5547b65ced3c3fd4383d68a333b254b3
     m_Address: MYP_f334
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55587809826703144b26a39bdf0df7ea
     m_Address: MYP_f275
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55ba6f0e85912694e8e367336fa60881
     m_Address: MYP_f314
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6571d924a62c35246ae745374b1d848a
     m_Address: MYP_f016
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 65af2987c6a960943b5decf72522d280
     m_Address: MYP_f146
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8516b02118a088246a1dff69589e50fa
     m_Address: MYP_f369
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 95148471498d539419aba387c8df00f1
     m_Address: MYP_f300
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9594f270e4df30549a0458b021c8bfe3
     m_Address: MYP_f359
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 95b993403fa163f45a8bc4d64c5d8c72
     m_Address: MYP_f104
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a5d0112e24feb344592be3c7f6412728
     m_Address: MYP_f352
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a5adedbf32fb5014e92cb3ed86dfdae2
     m_Address: MYP_f131
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b512d17df854da34e8106d49bc9790ff
     m_Address: MYP_f036
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d5919b51611af7541bf5f108dd950cf5
     m_Address: MYP_f080
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d574bb9bfd6512c42965fbd02d8057b8
     m_Address: MYP_f344
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d5fe2773be2710f4e9c9d81c14ddda91
     m_Address: MYP_f164
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e5577e285edbc2441876f63355aace82
     m_Address: MYP_f084
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e5dd93dc0dfcfab479fe17482e070f2d
     m_Address: MYP_f332
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e57e88ba2a6d51d42b76d68ea2574db7
     m_Address: MYP_f315
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f50a7c9c749ca1940a3b5d8cf22b33d6
     m_Address: MYP_f129
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0612691e1844a43439988e265ca2ce82
     m_Address: MYP_f234
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 06aa0503834209a46b8bacb267d45569
     m_Address: MYP_f250
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 16127b88331ded54b8c3a0249fd331f6
     m_Address: MYP_f340
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 16494fc64a765c34b86d5ba0872ee21c
     m_Address: MYP_f363
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 165ddf242f866b146ace25230d21f687
     m_Address: MYP_f199
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 26ecdd23a87bd9941b6d95b45e1c7e30
     m_Address: MYP_f040
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 36882370b8dc4324f9c87cd658c00d41
     m_Address: MYP_f180
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4627b340fdc9f264c91cf991a31564b2
     m_Address: MYP_f282
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 569363c1d2d7af84fb649cabad6bda8f
     m_Address: MYP_f054
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 76008b2323bccc541ad3f5d6f83abd84
     m_Address: MYP_f064
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86195be332b1157428052c49b8f854c5
     m_Address: MYP_f337
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9611e67bf296f6d4d9fba0335cb8961d
     m_Address: MYP_f061
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a63c03401b02d124bb211dde65944e42
     m_Address: MYP_f134
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a60e3442296f86548931d6861d55e20e
     m_Address: MYP_f298
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6a0ad807c424d146af9bfa76d34a4e8
     m_Address: MYP_f229
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b602ce997fbf1e9429a7418257686e72
     m_Address: MYP_f302
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6677ee74f48121409d886563887743b
     m_Address: MYP_f057
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b64a807f22b25bb439eb1d326f5bd072
     m_Address: MYP_f067
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c6b05e2ed85b3ad4eb985014fa873cc8
     m_Address: MYP_f095
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e6a62eeba79c0654cabbf3cde61b2e8f
     m_Address: MYP_f153
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f6c9ac8887361364f97368c16c663f94
     m_Address: MYP_f101
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 17716a650758e444abccfbdcbb5a6cbb
     m_Address: MYP_f324
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1768cd928e283cc4eac5b1842c890584
     m_Address: MYP_f051
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 170d8a75433ec2e48ac0acabd86edf05
     m_Address: MYP_f194
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 27247600dece13f43b53def6692a5403
     m_Address: MYP_f183
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2725eac15ef571a4eac3a65e14d821bc
     m_Address: MYP_f255
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 27a67714b906c6e42a7154018ae34f12
     m_Address: MYP_f295
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 371f18ad0ef7f1a449bfd4a675cb2296
     m_Address: MYP_f297
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4782c050539fbe74d85f96866b6fecda
     m_Address: MYP_f222
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4788f23acea9d9f43a4a2dc703583850
     m_Address: MYP_f320
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 478e86392e734d74b81c7a456e47d088
     m_Address: MYP_f179
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 67610bfeee3eef147aa6719e15349f56
     m_Address: MYP_f203
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6743c360ddde74348853231029cfdb3e
     m_Address: MYP_f052
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 67191a288e8ac3a4da8abd094d5d1f5f
     m_Address: MYP_f321
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 677c0e2e591556544b9dcebd2031394b
     m_Address: MYP_f178
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 670f7523b58be464693227a3bf25165b
     m_Address: MYP_f278
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 779154f4e739e554b94cdb4b87fa6a46
     m_Address: MYP_f082
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 87a23b0d298e6804281e8a84c7cd4f46
     m_Address: MYP_f175
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 873e3eeabc9ebec40b736faab4df58fb
     m_Address: MYP_f277
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a714e3634c9c66e4caf5df885e899d2f
     m_Address: MYP_f218
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a7ce5062e1138c4479ed8df29791743c
     m_Address: MYP_f008
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b74a3284855a5f949823161fbd67d2f4
     m_Address: MYP_f177
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b73b1ba408bc3ca4caf9011d3e147063
     m_Address: MYP_f351
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c7a608ad79343be48a47076a29a5a677
     m_Address: MYP_f271
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d794abbc32a966d438ebaec27f42eeb1
     m_Address: MYP_f208
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d708c8f83a27f5a4e8c3e494846bf662
     m_Address: MYP_f143
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d74886e076e36ef438205c4ad5389b89
     m_Address: MYP_f290
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d7d81291f0fcfea409989c24a4d0ec5f
     m_Address: MYP_f197
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e73f6cf8f6ac36b40b0ec1b3e345a8c7
     m_Address: MYP_f069
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f7046cb5769b7e54db951ead22c30d1a
     m_Address: MYP_f099
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f73a4305a8a35854fbc333d8092b0b0a
     m_Address: MYP_f151
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f72c8dad78cd8a24db0856c1170a3265
     m_Address: MYP_f050
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f7ce44c5cb25f2e47a5a44e9724bf587
     m_Address: MYP_f062
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 083673e6be38b69468a5cc4e837991c8
     m_Address: MYP_f292
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0886ae8d31904824ba8d66802e34c5fe
     m_Address: MYP_f270
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1824888f3eccb464b9e891e6a09eebad
     m_Address: MYP_f141
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 188cf2b579231574a99d6f2554342bd8
     m_Address: MYP_f365
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2884a87f94443314ead5c875bd3096a7
     m_Address: MYP_f213
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 28845e80c80541845b5675734c7fa947
     m_Address: MYP_f076
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 38bbefa774c00684f81bd905c9271594
     m_Address: MYP_f225
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 58d2ec59f6c571f4d8f1cd4f06420c7d
     m_Address: MYP_f280
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 589de102e467a37479a0d671ecf17688
     m_Address: MYP_f171
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 68b6966b709d21841ba3b17eb18884ac
     m_Address: MYP_f273
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6857a2d72396d144980382d2a6d7b7eb
     m_Address: MYP_f053
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 684a9c44d611e7f42b11a1ab2ee045c5
     m_Address: MYP_f257
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 687bc981711108d4386e22ce3ba9cead
     m_Address: MYP_f185
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 680f1a2ce2237d34cb2590f64bcb2ba3
     m_Address: MYP_f060
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7871d8f2fb901f54887f64d0f7b0bbe5
     m_Address: MYP_f111
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 884ce18a079e34a41a5c293ff85668fe
     m_Address: MYP_f239
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a802fd61dd1727946951329970c6385a
     m_Address: MYP_f079
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a869d685c1559dd41a86968455470b8f
     m_Address: MYP_f347
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a80e0e6080422334bb24f34ab11021c7
     m_Address: MYP_f232
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b85187f936b98e54fa3bdebe04cd93d2
     m_Address: MYP_f056
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b884de1c7a628e245a069b6c74eceec3
     m_Address: MYP_f348
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b8c548e10b31cf647adb06683a52a700
     m_Address: MYP_f186
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b898157cd5ed8a042ab0639febea2b54
     m_Address: MYP_f023
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c8465355df0b3f0438747d2feb13d437
     m_Address: MYP_f135
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d8f33b3b41238574c9a66d7837eb16e9
     m_Address: MYP_f038
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d8bdd4710303eb1408da87f618f2b351
     m_Address: MYP_f310
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f8500593fb9ab4742819b96771c37106
     m_Address: MYP_f346
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f868a199ab0e7164a9b0b1d5b2b7b3e7
     m_Address: MYP_f120
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f89fd923e7598554ab451dc25ac8ce40
     m_Address: MYP_f133
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0951c0bc6a3a9ed4da28d805d84803e9
     m_Address: MYP_f354
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 19adfd1811801e446b7c8ec3449f3cdd
     m_Address: MYP_f323
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 39528785293dc34459d02893f13bddfb
     m_Address: MYP_f262
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 596474fa50c0d654892248d1fc6e29e4
     m_Address: MYP_f326
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 59bf0d8fbf02658439f70f2e01c34c9a
     m_Address: MYP_f105
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 69497f6655b3957408575ff99ca61642
     m_Address: MYP_f043
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 694e39b8101c16747bccb38f0d8a8ffb
     m_Address: MYP_f044
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 79aca7e62dc08bb4caf4dc0b3f39b600
     m_Address: MYP_f244
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8936f68c9d1711d479dae6a4186d9b38
     m_Address: MYP_f333
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8938f0d2a67ccbb41978e36e7a0fe8b9
     m_Address: MYP_f226
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 89cd5997df8bc0e468bba9da50997d9b
     m_Address: MYP_f328
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9982c65443f82cc4a8231ae7c378d0d6
     m_Address: MYP_f157
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 997b16c6d432f964e94f5cb1fbe756c2
     m_Address: MYP_f011
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 99cc125fa57c4e447a9733b74e769209
     m_Address: MYP_f247
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a9379cdebd794fb438e3fe1cad30f6dd
     m_Address: MYP_f140
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b9ace9cf68ba9234cb8eda9efe3ee098
     m_Address: MYP_f288
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c93e66d75447b954cb20dbf20fe99b0c
     m_Address: MYP_f015
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d930b0351edcc4a48983cee9991bd807
     m_Address: MYP_f103
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d9bcf3cf4a8cc4342a9c180afb5bf34a
     m_Address: MYP_f192
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9cc9234e6fe9c64cb8da142338e773d
     m_Address: MYP_f220
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0a3df5d45997c8b42b9ead22ad1286d0
     m_Address: MYP_f198
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0a5eff3d102e3c2489e612b1ef03a0b1
     m_Address: MYP_f085
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1ab515918b591fe40afc5c78eff11299
     m_Address: MYP_f196
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1a3a408923c2e5f40b78ddb63460d8be
     m_Address: MYP_f058
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2ad97bd8775a24e48938851452b660ec
     m_Address: MYP_f090
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3aa6a2c112bec544f818ecdbaf5ce6ff
     m_Address: MYP_f063
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5a31b8e3a91bd5a4db86e0bb4b78bd42
     m_Address: MYP_f264
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5af2705da0635d546b8ffc2abc874b94
     m_Address: MYP_f059
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5ac9be3b6f8dadc46a7a8bfea075f9d7
     m_Address: MYP_f361
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6ae44475fe18d49478db83ae7b6b311a
     m_Address: MYP_f010
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a01ea285fdf7de49a69b5e37ab964e0
     m_Address: MYP_f214
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7a79246a2597c654fad910c05ce08eaa
     m_Address: MYP_f327
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a923ca35fe9d1447911f93a77ed152b
     m_Address: MYP_f159
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a926d017bab1f0488bc807fc976297b
     m_Address: MYP_f149
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a4552401b00251439d87dcdfb6518e7
     m_Address: MYP_f047
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a28411e6d9dd054a9d525c8b0cd8227
     m_Address: MYP_f145
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a590aaae6178304b9fd7e94a3a10883
     m_Address: MYP_f173
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9acb5047f535974408e09e2d03235ce0
     m_Address: MYP_f293
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a5dae1ac280d624ca5e3ac5e10351f4
     m_Address: MYP_f027
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa7095ad1faa4fa468f4612e8622ffd5
     m_Address: MYP_f368
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa585a1676a898c4cb82151bccfeea5e
     m_Address: MYP_f355
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ca8ce31bf79c57a4084ffb18e310a49d
     m_Address: MYP_f289
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eacbbfe437d9f2944900d6c1cf59795f
     m_Address: MYP_f301
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa157d80af184f74385540a7984a9ff9
     m_Address: MYP_f009
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa5e671876115d0478852521499792be
     m_Address: MYP_f074
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0bb3c5cbf6ec99c4680e5a4416d02e41
     m_Address: MYP_f358
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0b54c95a3a493e948a14577ef0600520
     m_Address: MYP_f021
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1b68f5bfda4f01c4c91a3e862d3fd740
     m_Address: MYP_f100
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b3ccfca188d61244a9563326b0bd0bd
     m_Address: MYP_f039
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4badea00b6192ae448b53e1e48834c89
     m_Address: MYP_f316
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5b8f5e45a0158c34aa2247c13440f098
     m_Address: MYP_f317
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5bcf1488eb6413f4391d4dfaf7936e46
     m_Address: MYP_f018
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b32241a902450e4da1cb5506d5c5f7b
     m_Address: MYP_f112
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6bd4ad0356acb514aa4dc893fb9a8bbe
     m_Address: MYP_f184
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b0714263e7a2b14da1c9c10aebabef2
     m_Address: MYP_f065
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b50036de20042144bf058adaf8b12a0
     m_Address: MYP_f013
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b3c1fc67b988d14cb5e12887c960ed7
     m_Address: MYP_f201
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b26d0fd8c4c6294ea32af6958148064
     m_Address: MYP_f330
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9bec9cb5ed27435438554266d43c7c75
     m_Address: MYP_f144
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb68498331c05504b8d56ee13d2a5c52
     m_Address: MYP_f108
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb1f855d267ffee438ba598aefe92317
     m_Address: MYP_f240
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eb71aa49c28b5b540b0c932f854b9eab
     m_Address: MYP_f237
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb31826af70ad6141858167e13d23dcf
     m_Address: MYP_f121
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0c207453f34ead44da215d69b4209f8e
     m_Address: MYP_f033
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0cd1fcac43c8eb04bb2054f72fd7057c
     m_Address: MYP_f126
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0c26ee33319ae7d4981d4211ff24b4f8
     m_Address: MYP_f299
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0ce94ef6a6adbb04bb6252ebec0194bf
     m_Address: MYP_f306
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0c4c4209b7af94f41aaccd10bde02b90
     m_Address: MYP_f128
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c5161df045fc774aa2a0e99dff21ebf
     m_Address: MYP_f215
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4cf4f5c6cfdc58c47a7bf2af47b11a37
     m_Address: MYP_f267
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6c6f1363ecf1e534d9395517f8a25947
     m_Address: MYP_f338
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7c5e54afeffea034cbebf8e7033f0b9b
     m_Address: MYP_f152
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c0a43fcbbb46e94e8c4f44bc2bbce7e
     m_Address: MYP_f130
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8cdaf5a14c2819e419e99be4ceb8aef1
     m_Address: MYP_f224
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c0c7ea9023bb6e44a73ac99f498413d
     m_Address: MYP_f030
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ac19cbd835c5849488572fde1fe8e8aa
     m_Address: MYP_f006
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bc1cf0a7ebd36654ea68ecf58f03a68b
     m_Address: MYP_f291
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dc5a7c07f05d6e54e966c1f4e4ebba00
     m_Address: MYP_f356
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec23f131cb9ca64498d59b2077577674
     m_Address: MYP_f259
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ecf58ce51886cc74e913881c2a5ac909
     m_Address: MYP_f331
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ece85f937b1fc4648a2a5ee43d484372
     m_Address: MYP_f285
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d553299518c44f4397d411ef0daacaa
     m_Address: MYP_f342
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d3cbf1047307dd4f8ccff6b2a22e12c
     m_Address: MYP_f343
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d93e8fc3fe677e479411e417128a0fe
     m_Address: MYP_f256
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2dc9bf1d52433aa40961622f39f96026
     m_Address: MYP_f251
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d21abbd9b041b744a64e989ecb597e3
     m_Address: MYP_f284
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3de1a97d808ac6b44a46471c319eea0f
     m_Address: MYP_f055
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3da6a89a71fed964198409297ae65c11
     m_Address: MYP_f312
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3dfad92e022241b44b8e7c5f5c3b9d86
     m_Address: MYP_f162
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3d2d8f0a30e4382468d7c0663173c327
     m_Address: MYP_f261
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3dfd919600fb3ac4ea50ca927401ad62
     m_Address: MYP_f068
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4d023ca519801da4db0b1f9e049367af
     m_Address: MYP_f223
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4d75cb003d1c9944ebc6784ea2573d85
     m_Address: MYP_f281
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4d4cc0fea43202f4595a9e6611b09f60
     m_Address: MYP_f182
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7d55c7e5f90fe6c4d9aff99c8d9e686a
     m_Address: MYP_f216
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7dd99f83ac60a894d9214474514c0a78
     m_Address: MYP_f098
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7daa61f7a3d8fd745820623204bc9b91
     m_Address: MYP_f049
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7d6e6fb3fe2f54d4eb0ab6487a525167
     m_Address: MYP_f357
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8d222d3735889eb479e8fe9e46fad76b
     m_Address: MYP_f165
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8d25bcc3d537cb44d8c059c6cc5e2745
     m_Address: MYP_f279
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8db58a86615eded499dbfc26b24bb324
     m_Address: MYP_f176
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8de95323cd5293b48864a4f5694c2eb5
     m_Address: MYP_f046
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9d20912def48191459bfff4e8a4b0e50
     m_Address: MYP_f228
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ad217a1eac6c49d4fa9bed705494c89a
     m_Address: MYP_f086
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ad249ac80537b234b9ce855af612ea2b
     m_Address: MYP_f092
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bd55c8900772eb04ba52bb7d06807f85
     m_Address: MYP_f230
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bdd9b8a6a19183b4ebd9f2c779c05b12
     m_Address: MYP_f029
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bdfe73c67b808234fabff4c333aad501
     m_Address: MYP_f236
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cdd69e43a70da6d4b9bc8dc34590a6aa
     m_Address: MYP_f037
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd1a68eb8a487b74db1a69b9c22f7c8b
     m_Address: MYP_f150
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ddf2c9e0c8df8c641b76e4179ae489b4
     m_Address: MYP_f231
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ed093309cddd97e44a709d6daf532914
     m_Address: MYP_f142
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fd31d69b09449f342b3b55406f585f6a
     m_Address: MYP_f091
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fdce036a6d0aaf84689aa4c8f6cf27cc
     m_Address: MYP_f083
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2ef3caaddb3e4f949969cc5c94acbc49
     m_Address: MYP_f318
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e4c605cb9bf96d45a18c7598b6d5bb0
     m_Address: MYP_f048
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2edc91a52f9c94441a1c64b657ed5e47
     m_Address: MYP_f245
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e3ecbf13d847604fa19f38f1cf29b10
     m_Address: MYP_f066
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3e20c033be824d8478f4065ba7e5dc9e
     m_Address: MYP_f075
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4e55de50688e52648a2032296e7ccd8f
     m_Address: MYP_f345
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4eafe10eb661f29409bf4b9ab2017507
     m_Address: MYP_f341
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e2256ad2fa977548906cf4eb901d663
     m_Address: MYP_f077
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e7adb7fdb230cf45b316c3523f90614
     m_Address: MYP_f109
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7ecb84841df7bc84cb780f3195a820c0
     m_Address: MYP_f148
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8e4a97c973000964ca7f33eb6475e77e
     m_Address: MYP_f254
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e949675096af0b40a552dc963360964
     m_Address: MYP_f353
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aec58cd0a4f44d145b10155f54bec298
     m_Address: MYP_f336
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae6d1dae21022a04aa9f15377a7b66d9
     m_Address: MYP_f319
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae9d189d6bcf3b14dbf298a8a981b051
     m_Address: MYP_f136
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: be852b1929176c148aa863ffe295ea40
     m_Address: MYP_f124
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: be37d5b9ccb38ca4c9f4e10f5b88f58d
     m_Address: MYP_f269
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ce533ddc94ea54a4ebc373916235d7d2
     m_Address: MYP_f202
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ce34c555f5910804794d4b2d7bbaf48b
     m_Address: MYP_f078
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ce26ced6240058f47bbcbfb3dc249b6d
     m_Address: MYP_f235
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ce97a981046bc0b4abbc2d20c9a8e68b
     m_Address: MYP_f205
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee8e232bff6f6914ea95bd657ded280e
     m_Address: MYP_f020
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fe563b76e6bb1a84da282de834579f6d
     m_Address: MYP_f325
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f0b77c4d8a3fec4c9c336b5fcd8392b
     m_Address: MYP_f160
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f7ffb19af72aae4c951311c108b03c4
     m_Address: MYP_f170
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f7381fc76265ad419f6e8aa7105df81
     m_Address: MYP_f243
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f7251ed16d8161479dfe9a636d1f7c1
     m_Address: MYP_f045
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2fecbbc59bdb9a94c94d58364c407e46
     m_Address: MYP_f274
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3f41a6947fa2f944b80c78a432a5ddf6
     m_Address: MYP_f132
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3f5ed595bf2fc2540867fb4b7c49e879
     m_Address: MYP_f367
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f7c64debd37a7641ba96e9d4c03b8d6
     m_Address: MYP_f181
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5f02218d4fa0092449cc836e37c45505
     m_Address: MYP_f191
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5f380dac25c26bd4f9e3da283cd02e71
     m_Address: MYP_f119
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6f84b1a781af3764da69c1e23096fc6f
     m_Address: MYP_f209
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f853dd69fedbc748b65179fd48c8d4c
     m_Address: MYP_f070
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7f3911f541aad654d99d8d02c3f99668
     m_Address: MYP_f272
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8f3560c5d0696ff40b9bd60e435d85da
     m_Address: MYP_f004
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f80e87bdcd8af945b977f685a420204
     m_Address: MYP_f335
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af31b5147df5e30468acbf13927292aa
     m_Address: MYP_f139
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: afd86ad6c4e2eb1418753167827ba612
     m_Address: MYP_f350
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af9e192ec297801489d88afab61270ce
     m_Address: MYP_f296
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: afeeda1fb4863d1419852416890968f9
     m_Address: MYP_f032
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bfe9cd39c4016f5469591bd8da224b3c
     m_Address: MYP_f158
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dfcf64218eb7ee041b0460b3197f8845
     m_Address: MYP_f260
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: efd002fd3fbe9834ab3a95fbd3321459
     m_Address: MYP_f249
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ef9233eed1c76b344a057f62f5419b47
     m_Address: MYP_f106
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: efb2965065bb49940a6088b5f60150bf
     m_Address: MYP_f305
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eff216b887b289044885ae6f4356dd6f
     m_Address: MYP_f007
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ff83b2d2c9f9b584ba0cf01769f5940b
     m_Address: MYP_f166
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ff973c8ee57613e4690c2f18725e0ace
     m_Address: MYP_f246
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ff7b6608579d79649b2384a9294d1c58
     m_Address: MYP_f122
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Jewel
-    - DLC
+    - jewel
+    - dlc
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 79a24eeff0e9da3488937305c90091ae, type: 2}
