@@ -1,6 +1,6 @@
 {
-    "name": "S3Tools",
-    "rootNamespace": "S3Tools",
+    "name": "AWSUtils",
+    "rootNamespace": "AWSUtils",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
