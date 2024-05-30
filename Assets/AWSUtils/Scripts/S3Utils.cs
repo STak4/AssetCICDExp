@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -23,13 +24,21 @@ namespace AWSUtils
             foreach (var file in files)
             {
                 Debug.Log($"[S3Uploader]Uploading... {file}");
-                await client.PutObjectAsync(new PutObjectRequest()
+                try
                 {
-                    BucketName = bucketName,
-                    Key = Path.GetFileName(file),
-                    FilePath = file
-                });
-                Debug.Log($"[S3Uploader]Uploaded!");
+                    await client.PutObjectAsync(new PutObjectRequest()
+                    {
+                        BucketName = bucketName,
+                        Key = Path.GetFileName(file),
+                        FilePath = file
+                    });
+                    Debug.Log($"[S3Uploader]Uploaded!");
+                }
+                catch (Exception e)
+                {
+                    Debug.LogError(e.Message);
+                    throw;
+                }
             }
         }
         
