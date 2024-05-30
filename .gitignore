@@ -76,6 +76,3 @@ crashlytics-build.properties
 
 # NuGet Packege
 /[Aa]ssets/[Pp]ackages/*
-
-# Auth
-AWSSecrets.cs
