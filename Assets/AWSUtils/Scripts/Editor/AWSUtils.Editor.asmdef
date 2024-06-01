@@ -1,0 +1,18 @@
+{
+    "name": "AWSUtils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ebe60aabb9f47f441a4ec1f5b5833829"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

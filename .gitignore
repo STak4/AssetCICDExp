@@ -79,3 +79,6 @@ crashlytics-build.properties
 
 # Auth
 AWSSecrets.cs
+
+# Addressable Builds
+/[Ss]erver[Dd]ata/*

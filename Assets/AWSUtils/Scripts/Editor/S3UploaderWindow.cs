@@ -1,4 +1,3 @@
-#if UNITY_EDITOR
 using Amazon;
 using UnityEditor;
 using UnityEngine;
@@ -114,7 +113,7 @@ namespace AWSUtils.Editor
                     // S3へのアップロード
                     using (var s3 = S3Utils.CreateClient(key, secret, region))
                     {
-                        await S3Utils.UploadFolder(s3, bucket, _directoryPath);
+                        await S3Utils.UploadAll(s3, bucket, _directoryPath);
                     }
 
                     // キャッシュ削除する場合アップロード後削除
@@ -129,7 +128,7 @@ namespace AWSUtils.Editor
                                 dist = AwsSecrets.CloudFront.DistrubutionId;
                             }
                             
-                            // 削除中出ないことを確認する
+                            // 削除中でないことを確認する
                             if (!await CloudFrontUtils.IsInvalidationProgress(client, dist))
                             {
                                 await CloudFrontUtils.CreateInvalidationAsync(client, dist, _clearPath);
@@ -184,5 +183,3 @@ namespace AWSUtils.Editor
         }
     }
 }
-
-#endif
