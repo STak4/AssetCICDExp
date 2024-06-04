@@ -20,7 +20,7 @@ namespace AWSUtils
         
         public string DistrubutionId { get; set; }
 
-        public static readonly string DefaultPath = Application.temporaryCachePath + "/AWSSECRETS.json";
+        public static readonly string DefaultPath = Application.persistentDataPath + "/AWSSECRETS.json";
         public static AwsSecrets Load(string jsonFilePath)
         {
             if (!File.Exists(jsonFilePath))
