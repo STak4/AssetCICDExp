@@ -1,13 +1,14 @@
 using Amazon;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace AWSUtils.Editor
 {
     public class S3UploaderWindow : EditorWindow
     {
-        [SerializeField] private bool _useSecrets = false;
-
+        [SerializeField] private bool _loadSecrets = false;
+        [SerializeField] private bool _saveSecrets = false;
         [SerializeField] private string _accessKey;
         [SerializeField] private string _secretKey;
         [SerializeField] private string _bucket;
@@ -56,9 +57,12 @@ namespace AWSUtils.Editor
             m_SerializedObject.Update();
 
             // プロパティを表示して編集可能にする
-            _useSecrets = EditorGUILayout.Toggle("認証ファイルを使用した認証", _useSecrets);
-            if (!_useSecrets)
+            _loadSecrets = EditorGUILayout.Toggle("認証ファイルを使用した認証", _loadSecrets);
+            
+            // 認証ファイルを使用しない場合手動入力（保存されない）
+            if (!_loadSecrets)
             {
+                _saveSecrets = EditorGUILayout.Toggle("認証情報の自動保存", _saveSecrets);
                 EditorGUILayout.PropertyField(m_SerializedObject.FindProperty($"{nameof(_accessKey)}"));
                 EditorGUILayout.PropertyField(m_SerializedObject.FindProperty($"{nameof(_secretKey)}"));
 
@@ -73,7 +77,7 @@ namespace AWSUtils.Editor
             _isClearCache = EditorGUILayout.Toggle("CloudFrontのキャッシュ削除", _isClearCache);
             if (_isClearCache)
             {
-                if (!_useSecrets)
+                if (!_loadSecrets)
                 {
                     EditorGUILayout.PropertyField(m_SerializedObject.FindProperty($"{nameof(_cloudFrontDistributionId)}"));
                 }
@@ -95,43 +99,52 @@ namespace AWSUtils.Editor
                 if (!(string.IsNullOrEmpty(_accessKey) || string.IsNullOrEmpty(_secretKey) ||
                       string.IsNullOrEmpty(_bucket) || string.IsNullOrEmpty(_directoryPath)))
                 {
-                    var key = _accessKey;
-                    var secret = _secretKey;
-                    var region = RegionEndpoint.GetBySystemName(_popupDisplayOptions[_popupIndex].text);
-                    var bucket = _bucket;
-                    // 認証ファイルを使って上書き
-                    if (_useSecrets)
+                    AwsSecrets secrets = null;
+                    secrets = new AwsSecrets()
                     {
-                        key = AwsSecrets.Auth.AccessKey;
-                        secret = AwsSecrets.Auth.SecretKey;
-                        region = AwsSecrets.Bucket.Region;
-                        bucket = AwsSecrets.Bucket.BucketName;
+                        AccessKey = _accessKey,
+                        SecretKey = _secretKey,
+                        BucketName = _bucket,
+                        RegionName = _popupDisplayOptions[_popupIndex].text,
+                        DistrubutionId = _cloudFrontDistributionId
+                    };
+
+                    // 認証ファイルを使って上書き
+                    if (_loadSecrets)
+                    {
+                        secrets = AwsSecrets.Load(AwsSecrets.DefaultPath);
                     }
+
+                    var region = RegionEndpoint.GetBySystemName(secrets.RegionName);
                     
                     Debug.Log($"[S3Uplader]Region:{region}");
 
                     // S3へのアップロード
-                    using (var s3 = S3Utils.CreateClient(key, secret, region))
+                    using (var s3 = S3Utils.CreateClient(secrets.AccessKey, secrets.SecretKey, region))
                     {
-                        await S3Utils.UploadAll(s3, bucket, _directoryPath);
+                        await S3Utils.UploadAll(s3, secrets.BucketName, _directoryPath);
                     }
 
                     // キャッシュ削除する場合アップロード後削除
                     if (_isClearCache && !string.IsNullOrEmpty(_cloudFrontDistributionId) &&
                         !string.IsNullOrEmpty(_clearPath))
                     {
-                        using (var client = AWSUtils.CloudFrontUtils.CreateClient(key, secret, region))
+                        using (var client = AWSUtils.CloudFrontUtils.CreateClient(secrets.AccessKey, secrets.SecretKey, region))
                         {
                             var dist = _cloudFrontDistributionId;
-                            if (_useSecrets)
+                            if (_loadSecrets)
                             {
-                                dist = AwsSecrets.CloudFront.DistrubutionId;
+                                dist = secrets.DistrubutionId;
                             }
                             
                             // 削除中でないことを確認する
                             if (!await CloudFrontUtils.IsInvalidationProgress(client, dist))
                             {
                                 await CloudFrontUtils.CreateInvalidationAsync(client, dist, _clearPath);
+                                if (!_loadSecrets && _saveSecrets)
+                                {
+                                    AwsSecrets.Save(secrets, AwsSecrets.DefaultPath);
+                                }
                             }
                             else
                             {
@@ -150,24 +163,33 @@ namespace AWSUtils.Editor
                 if (_isClearCache && !string.IsNullOrEmpty(_cloudFrontDistributionId) &&
                     !string.IsNullOrEmpty(_clearPath))
                 {
-                    var key = _accessKey;
-                    var secret = _secretKey;
-                    var region = RegionEndpoint.GetBySystemName(_popupDisplayOptions[_popupIndex].text);
-                    var dist = _cloudFrontDistributionId;
-                    // 認証ファイルを使って上書き
-                    if (_useSecrets)
+                    AwsSecrets secrets = null;
+                    secrets = new AwsSecrets()
                     {
-                        key = AwsSecrets.Auth.AccessKey;
-                        secret = AwsSecrets.Auth.SecretKey;
-                        region = AwsSecrets.Bucket.Region;
-                        dist = AwsSecrets.CloudFront.DistrubutionId;
+                        AccessKey = _accessKey,
+                        SecretKey = _secretKey,
+                        BucketName = _bucket,
+                        RegionName =_popupDisplayOptions[_popupIndex].text,
+                        DistrubutionId = _cloudFrontDistributionId
+                    };
+
+                    // 認証ファイルを使って上書き
+                    if (_loadSecrets)
+                    {
+                        secrets = AwsSecrets.Load(AwsSecrets.DefaultPath);
                     }
                     
-                    using (var client = CloudFrontUtils.CreateClient(key, secret, region))
+                    var region = RegionEndpoint.GetBySystemName(secrets.RegionName);
+                    
+                    using (var client = CloudFrontUtils.CreateClient(secrets.AccessKey, secrets.SecretKey, region))
                     {
-                        if (!await CloudFrontUtils.IsInvalidationProgress(client, dist))
+                        if (!await CloudFrontUtils.IsInvalidationProgress(client, secrets.DistrubutionId))
                         {
-                            await CloudFrontUtils.CreateInvalidationAsync(client, dist, _clearPath);
+                            await CloudFrontUtils.CreateInvalidationAsync(client, secrets.DistrubutionId, _clearPath);
+                            if (!_loadSecrets && _saveSecrets)
+                            {
+                                AwsSecrets.Save(secrets, AwsSecrets.DefaultPath);
+                            }
                         }
                         else
                         {

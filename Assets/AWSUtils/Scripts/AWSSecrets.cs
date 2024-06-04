@@ -1,27 +1,47 @@
+using System.IO;
 using Amazon;
+using Unity.Plastic.Newtonsoft.Json;
+using UnityEngine;
 
 namespace AWSUtils
 {
     /// <summary>
-    /// DO NOT UPLOAD Secrets
+    /// AWS認証情報を扱うクラス
     /// </summary>
-    public static class AwsSecrets
+    public class AwsSecrets
     {
-        public static class Auth
+        public string AccessKey { get; set; }
+        public string SecretKey { get; set; }
+        
+        public string BucketName { get; set; }
+        
+        public string RegionName { get; set; }
+        //public RegionEndpoint Region { get; set; }
+        
+        public string DistrubutionId { get; set; }
+
+        public static readonly string DefaultPath = Application.persistentDataPath + "/AWSSECRETS.json";
+        public static AwsSecrets Load(string jsonFilePath)
         {
-            public static readonly string AccessKey = "YOUR_ACCESS_KEY";
-            public static readonly string SecretKey = "YOUR_SECRET_KEY";
+            if (!File.Exists(jsonFilePath))
+            {
+                throw new FileNotFoundException($"Cannot find json file in specified path: {jsonFilePath}");
+            }
+            
+            var json = File.ReadAllText(jsonFilePath);
+            var secrets = JsonConvert.DeserializeObject<AwsSecrets>(json);
+            return secrets;
         }
 
-        public static class Bucket
+        /// <summary>
+        /// TODO: 認証情報の暗号化（ローカル保存のため現在は考慮しない）
+        /// </summary>
+        /// <param name="secrets"></param>
+        /// <param name="jsonFilePath"></param>
+        public static void Save(AwsSecrets secrets, string jsonFilePath)
         {
-            public static readonly string BucketName = "YOUR_BUCKET_NAME";
-            public static readonly RegionEndpoint Region = RegionEndpoint.APNortheast1;
-        }
-        
-        public static class CloudFront
-        {
-            public static readonly string DistrubutionId = "YOUR_CLOUDFRONT_DESTRIBUTION_ID";
+            var json = JsonConvert.SerializeObject(secrets);
+            File.WriteAllText(jsonFilePath, json);
         }
     }
 }
